@@ -1,0 +1,32 @@
+.hero{
+    padding-top: 84px;
+    min-height: 90vh;
+    display: grid;
+    place-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: $primary-950;
+}
+
+
+.hero-title{
+    h1{
+        font-size: $fs-250;
+        
+        
+    }
+    p{
+        font-size: $fs-150;
+    }
+}
+.hero-container{
+    display: grid;
+    gap: $spacer-2;
+    justify-content: center;
+
+}
+.index-hero{
+    background-image: url("../../assets/img/hero/index-hero.jpg");
+
+}

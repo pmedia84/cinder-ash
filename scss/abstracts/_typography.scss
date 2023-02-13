@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600;700&display=swap');
+$font-family-sans-serif: 'Josefin Sans', sans-serif;
+body{
+    font-family: $font-family-sans-serif;
+}
+
+.font-emphasis{
+    font-weight: 300;
+    font-size: 1.25rem;
+    color: $grey-600;
+}
+
+.text-alert{
+    color: $error-response ;
+}
+$fs-100: 1rem;
+$fs-125: 1.25rem;
+$fs-150: 1.5rem;
+$fs-200: 2rem;
+$fs-250: 2.5rem;
+
+.cta-heading{
+    //bigger font for an alert or a large block of text
+    font-size: $fs-200;
+    color: $primary;
+    font-weight: 300;
+}

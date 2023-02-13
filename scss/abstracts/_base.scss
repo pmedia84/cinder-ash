@@ -1,0 +1,52 @@
+body{
+     display: flex;
+     flex-direction: column;
+    justify-content: space-between;
+    min-height: -moz-available;
+    min-height: -webkit-fill-available;
+    min-height: stretch;
+    @media(min-width:$md){
+        min-height: 100vh;
+    }
+ 
+    
+}
+
+a{
+    color: $primary;
+    display: inline-block;
+    &:hover{
+        opacity: 0.8;
+    }
+}
+
+*{
+    ::-webkit-scrollbar{ //defines scrollbar width
+        width: 8px;
+        height: 8px;
+    }
+    ::-webkit-scrollbar-thumb{ //Actual scroll block
+        background: $primary;
+        border-radius: 0.375rem;
+        &:hover{
+            background: $primary-700;
+        }
+    }
+    ::-webkit-scrollbar-track{ // Track in which the scroll bar follows
+        background: #fff;
+        border: 1px solid $primary;
+        border-radius: 10px; //Makes the scroll bar a pill shape and pushes it down
+        margin-block: 0.25rem;
+    }
+}
+
+
+//Add this for firefox compatibility. Only supports two colours
+
+
+@supports (scrollbar-color: $primary #FFF5EC){
+    *{
+        scrollbar-color: $primary #FFF5EC ;
+        scrollbar-width: auto;
+    }
+}

@@ -1,0 +1,131 @@
+.hero-img-card{
+    padding: 1rem;
+    background-color: hsla(0, 0%, 96%, 0.358);
+    backdrop-filter: blur(5px);
+    width: fit-content;
+    max-width: 500px;
+
+}
+
+//image card with glass border
+.img-card{
+    padding: 1rem;
+    background-color: hsla(0, 0%, 96%, 0.509);
+    backdrop-filter: blur(10px);
+    border: 1px solid $primary;
+}
+//standard card with basic padding and a simple border
+
+.std-card{
+    padding: $spacer-3;
+    border: 2px solid $primary;
+}
+
+//event card with header images and date information
+//set up as a section with a full width bg image
+.event-card-section{
+    background-image: url("../../assets/img/event-card/event-card-bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-block: $spacer-4;
+}
+.event-card{
+   border: 2px solid $primary;
+   text-align: center;
+   padding: $spacer-3;
+   background-color: $primary-900;
+   h2{
+    font-size: $fs-200;
+    font-weight: 300;
+   }
+   p{
+    font-size: $fs-125;
+    font-weight: 100;
+   }
+}
+
+.event-card-images{
+    display: flex;
+    flex-direction: column;
+    gap: $spacer-2;
+    margin-bottom: $spacer-5;
+    @media(min-width:$md){
+        flex-direction: row;
+        justify-content: center;
+        gap: $spacer-3;
+    }
+    .img-card{
+        max-height: 500px;
+        max-width: 500px;
+        img{
+            height: 100%;
+            width: 100%;
+            object-fit: cover;
+        }
+    }
+}
+
+.venue-card{
+    padding-block: $spacer-7;
+    display: grid;
+    gap: $spacer-3;
+    @media(min-width:$md){
+        grid-template-columns: 1fr 1fr;
+    }
+    h2{
+        color: $primary;
+    }
+
+
+}
+
+.venue-text{
+    padding: $spacer-4;
+}
+.footer-img-card{
+    width: 100%;
+    object-fit: cover;
+    height: 50vh;
+}
+.day-card{
+    text-align: left;
+}
+.day-card-body{
+    display: grid;
+    gap: $spacer-3;
+    @media(min-width: $md){
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+
+///gift list
+.gift-item-card{
+    padding: $spacer-3;
+    border: 2px solid $primary;
+    display: grid;
+    gap: $spacer-2;
+    max-width: 600px;
+    
+    @media(min-width:$md){
+        grid-template-columns: auto 250px;
+        
+    }
+}
+
+//short intro card to the couples story
+.story-intro{
+    max-height: 25ch;
+    overflow: hidden;
+}
+@supports(-webkit-line-clamp: 5){
+    .story-intro{
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 5;
+        overflow: hidden;
+        max-height: auto;
+    }
+
+}

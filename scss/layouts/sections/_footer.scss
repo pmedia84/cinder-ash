@@ -1,0 +1,15 @@
+.footer{
+    padding-block: $spacer-3;
+
+    background-color: $primary-700;
+}
+
+.footer-container{
+    display: flex;
+    flex-direction: column;
+    gap: $spacer-2;
+    @media(min-width: $md){
+        flex-direction: row;
+        justify-content: space-between;
+    }
+}
