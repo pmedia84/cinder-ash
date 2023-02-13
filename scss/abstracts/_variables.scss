@@ -1,11 +1,11 @@
 //Colours
-$primary:       hsl(277, 15%, 48%);
+$primary:       hsl(25, 100%, 40%);
 $secondary:     #B099BF;
 $tertiary-col:  #4D4D4D;
 $white: #f2f2;
 $grey-600: hsl(0, 0%, 54%);
-$hue:277;
-$saturation: 15%;
+$hue:25;
+$saturation: 100%;
 $primary-500:hsl($hue, $saturation, 50%);
 $primary-600:hsl($hue, $saturation, 60%);
 $primary-700:hsl($hue, $saturation, 70%);
@@ -18,7 +18,9 @@ $primary-form:       #3b685c;
 $error-response: hsl(0, 95%, 67%);
 // Border Radius
 
-$border-radius: 10px;
+$border-radius: 20px;
+$border-radius-2: 10px;
+$border-radius-3:5px;
 
 ///Screen Breakpoints
 $sm: 576px;

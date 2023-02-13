@@ -1,0 +1,47 @@
+.return{
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    height: 50px;
+    width: 50px;
+    padding: $spacer-2;
+    display: grid;
+    place-items: center;
+    border-radius: $border-radius-2;
+    background-color: $primary-900;
+    border: 1px solid $primary;
+    opacity: 0;
+    animation: return 5s ease infinite;
+    scale: .5;
+    transition: opacity 300ms ease, scale 300ms ease;
+    svg{
+        height: 100%;
+        path{
+            fill: $primary;
+        }
+    }
+}
+
+@keyframes return{
+    0%{transform: translatey(0px);}
+    50%{transform: translatey(5px);}
+    100%{transform: translatey(0px);}
+}
+
+.return-active{
+    opacity: .8;
+    scale: 1;
+    transition: opacity 300ms ease, scale 300ms ease;
+}
+
+@media(min-width: $x-lg){
+    .return{
+        display: none;
+    }
+}
+@media(min-width: $md){
+    .return{
+        bottom: 92px;
+    }
+}

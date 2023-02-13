@@ -29,5 +29,5 @@
 .grid-auto-sm{ //auto grid small columns
     display: grid;
     gap: $spacer-1;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(200px, auto));
 }

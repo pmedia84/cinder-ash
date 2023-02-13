@@ -5,9 +5,9 @@ body{
     min-height: -moz-available;
     min-height: -webkit-fill-available;
     min-height: stretch;
-    @media(min-width:$md){
+   
         min-height: 100vh;
-    }
+   
  
     
 }
@@ -49,4 +49,8 @@ a{
         scrollbar-color: $primary #FFF5EC ;
         scrollbar-width: auto;
     }
+}
+
+.grecaptcha-badge{
+    visibility: hidden;
 }

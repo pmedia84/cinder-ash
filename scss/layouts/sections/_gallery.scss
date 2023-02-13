@@ -1,13 +1,93 @@
 .gallery{
-    display: grid;
-    gap: $spacer-1;
-    img{
-        width: 100%;
-        height: 300px;
-         object-fit: cover;
-    }
-    @media (min-width:$md){
-        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    }
+    background-image: url("../../assets/img/icons/flower-bg-lh.svg"), url("../../assets/img/icons/flower-bg-rh.svg") ;
+    background-repeat: no-repeat, no-repeat;
+    background-position: top, bottom;
+    background-size: 25%;
+    overflow-x: scroll;
 
 }
+///card to make images look like a instax photo
+.gallery-card{
+    position: relative;
+    padding: $spacer-3;
+    background-color: #fff;
+    width: 272px;
+    height: 325px;
+    border-radius: $border-radius-2;
+    border: 1px solid $primary;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 4px 3px 3px 1px rgba(0, 0, 0, 0.2);
+    flex-grow: 0;
+
+}
+
+
+.gallery-card-img img{
+    aspect-ratio: 1/1;
+    width: 234px;
+    height: 234px;
+    object-fit:cover;
+    border-radius: $border-radius-3;
+   
+}
+
+
+.gallery-card-footer{
+    display: grid;
+    place-items: center;
+    font-size: $fs-150;
+}
+
+.gallery .gallery-card:nth-child(odd){
+    transform: rotate(5deg);
+}
+.gallery .gallery-card:nth-child(even){
+    transform: rotate(-5deg);
+}
+.gallery-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+@media(min-width: $md){
+    .gallery{
+        background-position: left bottom, right bottom;
+        padding-block: $spacer-3;
+        
+    }
+    .gallery-body{
+        padding-block: $spacer-5;
+        width: 90%;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: row;
+        width: fit-content;
+    }
+    .peg{
+        position: absolute;
+        top: -60px;
+        left: calc(50% - $spacer-3);
+        height: 95px;
+        width: 20px;
+        background-color: #c4b6a2;
+        z-index: 1;
+        box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.25), 1px 2px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 2px;
+        &::after{
+            content: "";
+            position: absolute;
+            bottom: 25px;
+            left: 0px;
+            width: 22px;
+            height: 3px;
+            border-radius: 1px;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.265);
+            border-top: 1px solid rgba(0, 0, 0, 0.265);
+            background-color: silver;
+        }
+    }
+}
+
+

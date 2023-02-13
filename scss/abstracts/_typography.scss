@@ -1,5 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600;700&display=swap');
-$font-family-sans-serif: 'Josefin Sans', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Glory:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,800&display=swap');
+$font-family-sans-serif: 'Glory', sans-serif;
+$ff-handwriting: 'Glory', sans-serif;
 body{
     font-family: $font-family-sans-serif;
 }
@@ -18,10 +19,31 @@ $fs-125: 1.25rem;
 $fs-150: 1.5rem;
 $fs-200: 2rem;
 $fs-250: 2.5rem;
+$fs-300: 3rem;
 
 .cta-heading{
     //bigger font for an alert or a large block of text
     font-size: $fs-200;
     color: $primary;
     font-weight: 300;
+}
+
+h1{
+    font-size:$fs-250 ;
+}
+h2{
+    font-size: $fs-200;
+}
+h1, h2, h3, h4{
+    font-family: $ff-handwriting;
+}
+
+.section-title{
+    font-size: $fs-250;
+    color: $primary;
+}
+
+.section-subtitle{
+    font-size: $fs-150;
+    font-weight: 200;
 }

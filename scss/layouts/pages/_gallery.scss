@@ -1,9 +1,6 @@
 .gallery-hero{
-  background-image: url("../../assets/img/hero/gallery-hero.jpg");
-h1,p{
-  color: black;
+  background-image: url("../../assets/img/hero/index-hero.jpg");
 
-}
 }
   
 ///thumbnails
@@ -171,4 +168,13 @@ h1,p{
 
   .gallery-img{
     cursor: pointer;
+   
+  }
+
+.gallery-img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    border-radius: $border-radius-2;
   }

@@ -40,3 +40,36 @@
         max-width: 1320px;
     }
 }
+
+.home{
+    //home container for temp landing page
+    flex-grow: 1;
+    display: grid;
+    place-items: center;
+    height: 100%;
+}
+.home-temp{
+    background-color: aliceblue;
+    padding: $spacer-4;
+    border-radius: $border-radius;
+    display: flex;
+    gap: $spacer-2;
+    flex-direction: column;
+    background-image: linear-gradient(to right, #e8d1d1, #e9d3dd, #e3d7eb, #d6ddf5, #c6e4f8);
+    img{
+        max-height: 250px;
+    }
+}
+
+@media(min-width: $md){
+    .home-temp{
+        flex-direction: row;
+        padding-block: 5rem;
+    }
+    .home-temp-col{
+        flex-grow: 1;
+    }
+    .home-temp-col.end{
+        place-self: end;
+    }
+}
