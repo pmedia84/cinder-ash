@@ -3,8 +3,9 @@
     appearance: none;
     background-color: $primary-500;
     color: #fff;
+    font-family: $font-family-sans-serif;
     border: 1.5px solid $primary-500;
-    border-radius: 5px;
+    border-radius: $border-radius-2;
     padding: .375rem .75rem;
     transition: box-shadow 300ms ease-out;
     width: fit-content;

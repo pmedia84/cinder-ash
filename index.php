@@ -1,32 +1,95 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="assets/css/styles.css">
-        <!-- Google Fonts -->
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Alex+Brush&family=Glory:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,800&display=swap" rel="stylesheet">
-    <title>Cinder Ash Pre School</title>
+<?php include("inc/header.inc.php"); ?>
+
+<!-- Page specific information and scripts -->
+<title>Cinder Ash - Nursery and pre school in Long Sutton</title>
 </head>
-<body>
-  
-        <section class="container home">
-            <div class="home-temp">
-                <div class="home-temp-col my-3">
-                    <h1>Welcome to Cinder Ash Pre School</h1>
-                    <p>Our website is undergoing maintenance </p>
-                    <p>If you would like to get in touch with us, you can contact us:</p>
-                    <p><strong>Phone: </strong>01406 258382</p>
-                    <p><strong>email: </strong>cinderashpre-school@hotmail.co.uk</p>
+
+<body itemscope itemtype="https://schema.org/ChildCare">
+    <?php include("inc/nav.inc.php"); ?>
+    <main>
+        <div class="hero index-hero">
+            <div class="hero-container">
+                <h1 class="hero-title">Welcome to Cinder Ash</h1>
+                <p class="hero-subtitle">We believe that every child deserves the BEST start in life!</p>
+                <p class="my-2">Offering a mixed age room, where friendships are not separated by the child’a  age, and children can learn and grow together, we can accomplish our belief…</p>
+                <a href="contact" class="btn-primary">Contact Us</a>
+            </div>
+
+        </div>
+        <section class="container my-5 grid-row-3col">
+            <div class="card">
+                <div class="card-icon">
+                    <img src="assets/img/icons/toy-brick.svg" alt="">
                 </div>
-                <div class="home-temp-col my-3 end">
-                    <img src="assets/img/home-temp-graphic.jpg" alt="">
+                <div class="card-body">
+                    <h3>Learn through play</h3>
+                    <p>We are a mixed age group setting, taking children from six weeks through to pre-school, with a focus on free flow learning and child led play</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-icon">
+                    <img src="assets/img/icons/baby.svg" alt="">
+                </div>
+                <div class="card-body">
+                    <h3>Mixed age groups</h3>
+                    <p>We offer two year old funding for those eligible, fifteen hour early years entitlement funding to all 3 and 4 year olds, and thirty hour funding to those three and four year olds eligble for this.</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-icon">
+                    <img src="assets/img/icons/star.svg" alt="">
+                </div>
+                <div class="card-body">
+                    <h3>Ofsted rated Good</h3>
+                    <p>We are Ofsted rated Good, and you can access our report <a href="">Here</a></p>
                 </div>
             </div>
         </section>
-   
+
+        <section class="container my-5 grid-row-2col">
+            <div class="grid-col">
+                <h2>About us</h2>
+                <p>We are a mixed age group setting, taking children from six weeks through to pre-school, with a focus on free flow learning and child led play. We are OFSTED rated good.</p>
+                <a href="" class="btn-primary my-3">Find Out More</a>
+            </div>
+            <div class="grid-col grid-col-left">
+                <img src="assets/img/126.jpg" alt="" height="250px">
+            </div>
+        </section>
+
+        <section class="container my-5">
+            <h2 class="section-title text-center my-3">Meet the Team</h2>
+            <div class="grid-row-3col">
+                <div class="staff-card">
+                   <div class="staff-card-header">
+                    <img src="assets/img/staff/lucy.jpg" alt="">
+                   </div>
+                   <p class="staff-card-name text-center">Lucy Cooper</p>
+                   <p class="staff-card-title text-center">Manager</p>
+                </div>
+                <div class="staff-card">
+                <div class="staff-card-header">
+                    <img src="assets/img/staff/charlotte.jpg" alt="">
+                   </div>
+                   <p class="staff-card-name text-center">Charlotte</p>
+                   <p class="staff-card-title text-center">Deputy Manager &amp; SENCo</p>
+                </div>
+                <div class="staff-card">
+                <div class="staff-card-header">
+                    <img src="assets/img/staff/melissa.jpg" alt="">
+                   </div>
+                   <p class="staff-card-name text-center">Melissa</p>
+                   <p class="staff-card-title text-center">Floor Manager</p>
+                </div>
+            </div>
+            <p class="text-center my-3">You can meet all of our team on our staff pages to find out more how they play an important role in running our nursery.</p>
+            <div class="text-center"><a href="" class="btn-primary">Meet All of Us</a></div>
+        </section>
+
+        <section class="">
+            <h2 class="section-title text-center my-3">Find Us</h2>
+            <iframe width="100%" height="400px" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJF_ELv2H510cROXY4vLConj0&key=AIzaSyCUbVYYbH8fD_3C7jRBX6KkNjL8I2xJPoA"></iframe>
+        </section>
+    </main>
+    <?php include("inc/footer.inc.php"); ?>
 </body>
-</html>

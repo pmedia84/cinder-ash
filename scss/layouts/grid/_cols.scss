@@ -8,5 +8,12 @@
 
 .grid-col{ //standard grid column to hold items together
     width: 100%;
-grid-column: 2/3;
+}
+
+@media(min-width:$md){
+//align items to left on larger screens
+.grid-col-left{
+    width: fit-content;
+    place-self: end;
+}
 }
