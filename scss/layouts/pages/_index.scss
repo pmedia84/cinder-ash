@@ -1,8 +1,5 @@
-.std-card.index-img{
-   img{
-    width: 100%;
- 
-    border-radius: 5px;
-   }
-
+.home-gallery{
+   display: grid;
+   gap: $spacer-1;
+   grid-template-columns: repeat(auto-fit, minmax(200px, auto));
 }

@@ -18,7 +18,8 @@
     transition: opacity 600ms ease;
     max-height: 200px;
     img{
-        max-height: 80px;
+        height: 80px;
+        width: auto;
     }
     a{
         text-decoration: none;

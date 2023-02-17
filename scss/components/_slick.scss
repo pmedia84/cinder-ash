@@ -1,0 +1,16 @@
+.slide img{
+  max-height: 35vh;
+  object-fit: cover;
+  object-position: top;
+}
+.slide{
+  max-height: inherit;
+}
+
+@media(min-width: $md){
+  .slide img{
+    max-height: 60vh;
+    object-position: center;
+  }
+}
+

@@ -8,6 +8,10 @@
 
 .grid-col{ //standard grid column to hold items together
     width: 100%;
+    img{
+        object-fit: cover;
+        object-position: top;
+    }
 }
 
 @media(min-width:$md){

@@ -31,11 +31,11 @@
             <form action="">
                 <div class="form-input-col">
                     <label for="visitor_name">Name</label>
-                    <input type="text" name="visitor_name" id="visitor_name" placeholder="Your name...">
+                    <input type="text" name="visitor_name" id="visitor_name" placeholder="Your name..." autocomplete="name">
                 </div>
                 <div class="form-input-col">
                     <label for="visitor_email">Email Address</label>
-                    <input type="email" name="visitor_email" id="visitor_email" placeholder="Your email address...">
+                    <input type="email" name="visitor_email" id="visitor_email" placeholder="Your email address..." autocomplete="email">
                 </div>
                 <button class="btn-primary my-2">Submit Request</button>
             </form>
