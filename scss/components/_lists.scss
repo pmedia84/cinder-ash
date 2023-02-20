@@ -1,0 +1,16 @@
+.opening-hrs{
+    width: 100%;
+    padding: 0;
+    max-width: 300px;
+    li{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        border-bottom: 1px solid $primary-800;
+    }
+    li.opening-hrs-time{
+        flex-grow: 1;
+     
+    }
+
+}

@@ -1,61 +1,62 @@
 .hero {
-    height: clamp(60vh, 60vw, 500px);
-    padding-block: 10vw;
+    padding-block: 25vh;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     color: $secondary;
+    background-color: hsl(0, 7.2%, 81%);
+    background-blend-mode: multiply;
     display: grid;
     position: relative;
     place-items: center;
     z-index: 1;
-    &::after{
-        content: "";
-        position: absolute;
-        bottom: 0px;
-        height: 125px;
-        width: 100%;
-        background: #ffffff;
-        -webkit-mask-image: url(../../assets/img/icons/cloud.svg);
-        mask-image: url(../../assets/img/icons/cloud.svg);
-        filter: drop-shadow(0rem 4px 9px rgba(45, 4, 4, 0.8));
-        z-index: 0;
 
-    }
 }
-
-
-.hero-container{
+.hero-container {
     padding-inline: $spacer-3;
     z-index: 3;
 }
+
 .hero-title {
- 
-        font-size: $fs-250;
-        font-weight: 400;
-        color: $secondary;
-        text-shadow: 2px 2px hsla(0, 0%, 0%, 0.25);
-        
-
-
+    font-size: $fs-250;
+    font-weight: 400;
+    color: $secondary;
+    text-shadow: 2px 2px hsla(0, 0%, 0%, 0.25);
 }
-.hero-subtitle{
+
+.hero-subtitle {
     font-size: $fs-125;
     font-family: $font-family-sans-serif;
 }
 
 
 .index-hero {
-    background-image: url("../../assets/img/hero/index-hero.jpg");
+    background-image: url("../../assets/img/hero/index-hero-sm.jpg");
 
 }
-.hero-title{
+
+@media(min-width:$md) {
+    .index-hero {
+        background-image: url("../../assets/img/hero/index-hero-med.jpg");
+
+    }
+}
+
+@media(min-width:$lg) {
+    .index-hero {
+        background-image: url("../../assets/img/hero/index-hero-lg.jpg");
+
+    }
+}
+
+//set up bg images depending on screen size
+.hero-title {
     place-self: left;
 }
 
-@media(min-width: $md){
+@media(min-width: $md) {
 
-    .hero-container{
+    .hero-container {
         width: 65%;
     }
 }

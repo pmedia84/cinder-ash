@@ -48,3 +48,34 @@ h1, h2, h3, h4{
     font-size: $fs-150;
     font-weight: 200;
 }
+
+//speech bubble to draw attention to a quote
+
+.speech-bubble{
+    background-color: $primary-800;
+    padding: $spacer-3;
+    border-radius: $border-radius-2;
+    position: relative;
+    filter: drop-shadow(4px 4px 3px rgba(164, 164, 164, 0.662));
+}
+.speech-bubble:after {
+	content: '';
+    position: absolute;
+    display: block;
+    bottom: -16px;
+    left: 0;
+    width: 0;
+    border-style: solid;
+    border-width: 32px 32px 0 0;
+    border-color: $primary-800 transparent transparent transparent;
+
+
+}
+
+@media(min-width: $md){
+    .speech-bubble{
+        width: 50%;
+        margin-inline: auto;
+        
+    }
+}

@@ -85,7 +85,9 @@
     border-radius: $border-radius;
 }
 
-
+.border-std-2{
+    border-radius: $border-radius-2;
+}
 
 //Font colours
 //Change default font to primary colour
@@ -131,3 +133,6 @@
     word-wrap: anywhere;
 }
 
+.italics{
+    font-style: italic;
+}
