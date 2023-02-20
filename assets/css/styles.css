@@ -814,14 +814,18 @@ a.btn-primary{
 .btn-close{/*close button*/
     border: 0;
     border-radius: .375rem;
-    padding: .25em .25em;
-    height: min-content;
+    padding: .25em ;
+    height: 40px;
+    width: 40px;
     cursor: pointer;
     opacity: .5;
     background-color: transparent;
 }
 .btn-close:hover{
         opacity: 1;
+    }
+.btn-close svg{
+        height: 100%;
     }
 .alert{
     /*/Alert button for buttons to draw attention*/
@@ -1259,24 +1263,115 @@ input:checked + .slider:before {
 .card-body p{
         font-weight: 300;
     }
-/*/staff cards*/
+/*/staff cards- small version for home page*/
 .staff-card{
     padding: 0.5rem;
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+.staff-card .staff-card-header img{
+        height: 200px;
+        width: 200px;
+        object-fit: cover;
+        object-position: top;
+        border-radius: 100%;
+    }
+.staff-card .staff-card-name{
+        font-size: 1.25rem;
+        font-family: 'Jua', sans-serif;
+    }
+/*larger card for staff pages*/
+.staff-card-lg{
+    display: grid;
+
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.staff-card-lg .staff-card-header img{
+        height: 250px;
+        width: 250px;
+        object-fit: cover;
+        object-position: top;
+        border-radius: 10px;
+    }
+.staff-card-lg .staff-card-name{
+        font-size: 1.25rem;
+        font-family: 'Jua', sans-serif;
+    }
+.staff-card-lg .staff-card-title{
+        font-size: 1rem;
+        font-weight: 500;
+    }
+.staff-card-lg .staff-card-body{
+        background-color: hsl(16, 24%, 90%);
+        padding: 1.5rem;
+        border-radius: 10px;
+    }
+/*short intro card to the couples story*/
+.staff-card-lg .staff-card-text{
+    max-height: 25ch;
+    overflow: hidden;
+}
+@supports(-webkit-line-clamp: 3){
+    .staff-card-lg .staff-card-text{
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 3;
+        overflow: hidden;
+        max-height: auto;
+    }
 
 }
-.staff-card-header img{
-    height: 200px;
-    width: 200px;
-    object-fit: cover;
-    object-position: top;
-    border-radius: 100%;
+/*staff-card-modal*/
+/*displays the results of the staff body text in a modal*/
+.staff-card-modal{
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.537);
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100svh;
+    z-index: 1000;
 }
-.staff-card-name{
-    font-size: 1.25rem;
-    font-family: 'Jua', sans-serif;
+.staff-card-modal .staff-card-header img{
+        height: 250px;
+        width: 250px;
+        object-fit: cover;
+        object-position: top;
+        border-radius: 10px;
+    }
+.staff-card-modal .staff-card-name{
+        font-size: 1.25rem;
+        font-family: 'Jua', sans-serif;
+    }
+.staff-card-modal .staff-card-body{
+        background-color: hsl(16, 24%, 90%);
+        padding: 1.5rem;
+        border-radius: 10px;
+    }
+.staff-card-modal-close{
+   display: grid;
+   place-items: end;
+}
+.staff-card-modal-body{
+    padding: 2rem;
+    height: 100%;
+    display: grid;
+    place-items: center;
+ overflow: scroll;
+
+}
+@media(min-width:768px){
+    .staff-card-lg{
+        grid-template-columns: 1fr 1fr;
+    }
+    .staff-card-modal-body{
+        width: 80%;
+        margin-inline: auto;
+    }
 }
 .cookie-overlay {/*container*/
   display: none;

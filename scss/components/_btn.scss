@@ -51,13 +51,17 @@ a.btn-primary{
 .btn-close{//close button
     border: 0;
     border-radius: .375rem;
-    padding: .25em .25em;
-    height: min-content;
+    padding: .25em ;
+    height: 40px;
+    width: 40px;
     cursor: pointer;
     opacity: .5;
     background-color: transparent;
     &:hover{
         opacity: 1;
+    }
+    svg{
+        height: 100%;
     }
 }
 .alert{
