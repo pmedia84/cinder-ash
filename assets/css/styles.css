@@ -32,6 +32,7 @@ dd {
 ul[role='list'],
 ol[role='list'] {
   list-style: none;
+  padding: 0;
 }
 /* Set core root defaults */
 html:focus-within {
@@ -429,18 +430,18 @@ footer ul{
     font-size: 1.25rem;
     font-family: 'Jua', sans-serif;
 } 
-.index-hero {
+.hero {
     background-image: url("../../assets/img/hero/index-hero-sm.jpg");
 
 } 
 @media(min-width:768px) {
-    .index-hero {
+    .hero {
         background-image: url("../../assets/img/hero/index-hero-med.jpg");
 
     }
 } 
 @media(min-width:992px) {
-    .index-hero {
+    .hero {
         background-image: url("../../assets/img/hero/index-hero-lg.jpg");
 
     }
@@ -914,9 +915,15 @@ a.btn-primary{
         object-fit: cover;
         border-radius: 2.5px;
     }
+.form-textarea-wrapper{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  
+}
 /*///////////////////Form Input settings///////////////////////////*/
-input, textarea{
-    outline: none;
+input{
+    outline: transparent;
     max-width: 50ch;
 }
 input[type=text], input[type=password], textarea, select, input[type=file],input[type=number], input[type=date], input[type=time], input[type=email]{
@@ -937,11 +944,11 @@ input[type=date], input[type=time], input[type=number]{
     width: min-content;
 }
 textarea{
+    outline: transparent;
     width: 100%;
     min-height: 250px;
     margin-bottom: 1rem;
     padding:.375rem .75rem;
-    resize: auto;
     border-radius: 5px;
   }
 @media (min-width:768px) {
@@ -979,7 +986,6 @@ select:focus{
     align-items: center;
 }
 .button-section button,.button-section a,.modal-button-section button,.modal-button-section a{
-        width: 100%;
         max-width: 390px;
     }
 .button-section, .modal-button-section {
@@ -991,9 +997,7 @@ select:focus{
         width: 80%;
         max-width: 600px
 }
-        .button-section button, .button-section a, .modal-button-section button, .modal-button-section a{
-            width: fit-content;
-        }
+
     }
 .button-section a,.modal-button-section a{
         text-decoration: none;
@@ -1127,6 +1131,7 @@ input:checked + .slider:before {
 .form-controls-btn img{
         height: 1.25rem;
         margin-inline-start: 1rem;
+        width: 1.25rem;
     }
 /*Form modal setting when on a big screen*/
 @media(min-width:768px){
@@ -1614,6 +1619,9 @@ input:checked + .slider:before {
         flex-grow: 1;
      
     }
+.contact-details{
+    
+}
 /*spacing utilities*/
 /*m = margin*/
 /*p = padding*/

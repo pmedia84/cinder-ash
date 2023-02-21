@@ -30,20 +30,20 @@
 }
 
 
-.index-hero {
+.hero {
     background-image: url("../../assets/img/hero/index-hero-sm.jpg");
 
 }
 
 @media(min-width:$md) {
-    .index-hero {
+    .hero {
         background-image: url("../../assets/img/hero/index-hero-med.jpg");
 
     }
 }
 
 @media(min-width:$lg) {
-    .index-hero {
+    .hero {
         background-image: url("../../assets/img/hero/index-hero-lg.jpg");
 
     }

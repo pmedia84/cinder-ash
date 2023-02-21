@@ -17,7 +17,7 @@
     <!-- Font Awesome -->
     <script src="https://kit.fontawesome.com/3318fdaaaf.js" crossorigin="anonymous" defer></script>
     <!-- Google Recaptcha -->
-    <script src="https://www.google.com/recaptcha/api.js?render=6LevFFEiAAAAAPcel_AlRmOSMRgDSXCN5vT0lbmC" async="false"></script>
+    <script src="https://www.google.com/recaptcha/api.js?render=6LdLOSYkAAAAAMhX6ojn3hk-B6v3-NWkLb-YrdB-" async="false"></script>
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

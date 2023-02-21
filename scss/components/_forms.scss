@@ -82,10 +82,16 @@
         border-radius: 2.5px;
     }
 }
+.form-textarea-wrapper{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  
+}
 /////////////////////Form Input settings///////////////////////////
 
-input, textarea{
-    outline: none;
+input{
+    outline: transparent;
     max-width: 50ch;
 }
 input[type=text], input[type=password], textarea, select, input[type=file],input[type=number], input[type=date], input[type=time], input[type=email]{
@@ -106,11 +112,11 @@ input[type=date], input[type=time], input[type=number]{
 }
 
 textarea{
+    outline: transparent;
     width: 100%;
     min-height: 250px;
     margin-bottom: 1rem;
     padding:.375rem .75rem;
-    resize: auto;
     border-radius: 5px;
     @media (min-width:768px) {
       min-height: 0;
@@ -144,7 +150,6 @@ textarea{
     flex-direction: column;
     align-items: center;
     button,a{
-        width: 100%;
         max-width: 390px;
     }
     gap: .5rem;
@@ -153,9 +158,7 @@ textarea{
         flex-direction: row;
         width: 80%;
         max-width: 600px;
-        button, a{
-            width: fit-content;
-        }
+
     }
     a{
         text-decoration: none;
@@ -307,6 +310,7 @@ input[type="checkbox"]:focus {
     img{
         height: 1.25rem;
         margin-inline-start: 1rem;
+        width: 1.25rem;
     }
 }
 

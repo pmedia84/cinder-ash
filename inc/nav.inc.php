@@ -1,6 +1,6 @@
 <div class="header">
         <div class="header-contact ">
-        <i class="fa-solid fa-phone"></i><span itemprop="telephone"> <a href="tel:+01406 258382">01406 258382</a> </span>
+        <i class="fa-solid fa-phone"></i><span itemprop="telephone"> <a href="tel:01406 258382">01406 258382</a> </span>
         </div>
         <div class="header-socials">
         <i class="fa-brands fa-facebook-f"></i>
@@ -28,6 +28,7 @@
             <li><a href="freeflow">Freeflow</a></li>
             <li><a href="staff">Staff</a></li>
             <li><a href="prices">Prices</a></li>
+            <li><a href="policies">Policies</a></li>
             <li><a href="testimonials">Testimonials</a></li>
             <li><a href="contact">Contact</a></li>
             <li><a href="updates">Updates</a></li>
