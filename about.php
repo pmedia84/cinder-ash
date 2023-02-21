@@ -35,7 +35,7 @@
                     <p>Open all year round (apart from Christmas break and bank holidays)</p>
                 </div>
                 <div class="grid-col">
-                    <ul class="opening-hrs">
+                    <ul class="opening-hrs" itemprop="openingHours" content="Mo,Tu,We,Th, Fr 08:00-17:00">
                         <li>Monday <span class="opening-hrs-time">8:00 - 5:00 pm</span></li>
                         <li>Tuesday <span class="opening-hrs-time">8:00 - 5:00 pm</span></li>
                         <li>Wednesday <span class="opening-hrs-time">8:00 - 5:00 pm</span></li>

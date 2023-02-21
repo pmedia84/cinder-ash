@@ -1,7 +1,7 @@
 <?php include("inc/header.inc.php"); ?>
 
 <!-- Page specific information and scripts -->
-<title>Cinder Ash - Nursery and pre school in Long Sutton</title>
+<title>Nursery and pre school in Long Sutton - Cinder Ash</title>
 <!-- Slider -->
 <link rel="stylesheet" type="text/css" href="assets/slick/slick.css" />
 <link rel="stylesheet" type="text/css" href="assets/slick/slick-theme.css" />
@@ -13,7 +13,7 @@
     <main>
         <div class="hero index-hero">
             <div class="hero-container">
-                <h1 class="hero-title">Welcome to Cinder Ash</h1>
+                <h1 class="hero-title">Welcome to <span itemprop="name">Cinder Ash</span></h1>
                 <p class="hero-subtitle">We believe that every child deserves the BEST start in life!</p>
                 <p class="my-2">Offering a mixed age room, where friendships are not separated by the child’a age, and children can learn and grow together, we can accomplish our belief…</p>
                 <a href="contact" class="btn-primary">Contact Us</a>
@@ -52,7 +52,7 @@
         <section class="container my-5 grid-row-2col">
             <div class="grid-col">
                 <h2>About us</h2>
-                <p>We are a mixed age group setting, taking children from six weeks through to pre-school, with a focus on free flow learning and child led play. We are OFSTED rated good.</p>
+                <p itemprop="description">We are a mixed age group setting, taking children from six weeks through to pre-school, with a focus on free flow learning and child led play. We are OFSTED rated good.</p>
                 <a href="" class="btn-primary my-3">Find Out More</a>
             </div>
             <div class="grid-col grid-col-left">
@@ -113,21 +113,21 @@
                     <div class="staff-card-header">
                         <img src="assets/img/staff/lucy.jpg" alt="">
                     </div>
-                    <p class="staff-card-name text-center">Lucy Cooper</p>
+                    <p class="staff-card-name text-center" itemprop="employee">Lucy Cooper</p>
                     <p class="staff-card-title text-center">Manager</p>
                 </div>
                 <div class="staff-card">
                     <div class="staff-card-header">
                         <img src="assets/img/staff/charlotte.jpg" alt="">
                     </div>
-                    <p class="staff-card-name text-center">Charlotte</p>
+                    <p class="staff-card-name text-center" itemprop="employee">Charlotte</p>
                     <p class="staff-card-title text-center">Deputy Manager &amp; SENCo</p>
                 </div>
                 <div class="staff-card">
                     <div class="staff-card-header">
                         <img src="assets/img/staff/melissa.jpg" alt="">
                     </div>
-                    <p class="staff-card-name text-center">Melissa</p>
+                    <p class="staff-card-name text-center" itemprop="employee">Melissa</p>
                     <p class="staff-card-title text-center">Floor Manager</p>
                 </div>
             </div>
