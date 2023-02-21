@@ -3,17 +3,15 @@
         <i class="fa-solid fa-phone"></i><span itemprop="telephone"> <a href="tel:01406 258382">01406 258382</a> </span>
         </div>
         <div class="header-socials">
-        <i class="fa-brands fa-facebook-f"></i>
+        <a href="https://www.facebook.com/profile.php?id=100013728515694" target="_blank" rel="noreferrer"><i class="fa-brands fa-facebook-f"></i></a>
         </div>
     </div>
 <div class="nav-container">
     <nav class="nav-bar">
-
         <div class="nav-brand">
             <a href="/"><img src="assets/img/logo/logo.png" alt=""></a>
         </div>
         <button class="nav-btn" aria-controls="nav-links" id="nav-btn" type="button" aria-label="Menu" aria-expanded="false">
-
             <svg class="hamburger" viewBox="0 0 100 100" width="50">
                 <rect class="line top" width="80" height="5" x="10" y="25" rx="2.5"></rect>
                 <rect class="line middle" width="80" height="5" x="10" y="45" rx="2.5"></rect>
@@ -35,8 +33,5 @@
             <li><a href="committee">Committee</a></li>
 
         </ul>
-
-
-
     </nav>
 </div>

@@ -53,7 +53,7 @@
             <div class="grid-col">
                 <h2>About us</h2>
                 <p itemprop="description">We are a mixed age group setting, taking children from six weeks through to pre-school, with a focus on free flow learning and child led play. We are OFSTED rated good.</p>
-                <a href="" class="btn-primary my-3">Find Out More</a>
+                <a href="about" class="btn-primary my-3">Find Out More</a>
             </div>
             <div class="grid-col grid-col-left">
                 <img class="border-std" src="assets/img/gallery/play3.jpg" alt="" height="250px">
@@ -132,7 +132,7 @@
                 </div>
             </div>
             <p class="text-center my-3">You can meet all of our team on our staff pages to find out more how they play an important role in running our nursery.</p>
-            <div class="text-center"><a href="" class="btn-primary">Meet All of Us</a></div>
+            <div class="text-center"><a href="staff" class="btn-primary">Meet All of Us</a></div>
         </section>
         <section class="home-gallery my-4">
             <img src="" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt="">

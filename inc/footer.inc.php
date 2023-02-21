@@ -9,21 +9,21 @@
         <div class="footer-col">
             <h3>Company</h3>
             <ul>
-                <li><a href="">About Us</a></li>
-                <li><a href="">Staff</a></li>
-                <li><a href="">Contact Us</a></li>
-                <li><a href="">Committee</a></li>
-                <li><a href="">Privacy Policy</a></li>
+                <li><a href="about">About Us</a></li>
+                <li><a href="staff">Staff</a></li>
+                <li><a href="contact">Contact Us</a></li>
+                <li><a href="committee">Committee</a></li>
+                <li><a href="privacy">Privacy Policy</a></li>
             </ul>
         </div>
         <div class="footer-col">
             <h3>Customers</h3>
             <ul>
-                <li><a href="">Our Services</a></li>
-                <li><a href="">Free Flow</a></li>
-                <li><a href="">Prices</a></li>
-                <li><a href="">Testimonials</a></li>
-                <li><a href="">Updates</a></li>
+                <li><a href="services">Our Services</a></li>
+                <li><a href="freeflow">Free Flow</a></li>
+                <li><a href="prices">Prices</a></li>
+                <li><a href="testimonials">Testimonials</a></li>
+                <li><a href="updates">Updates</a></li>
             </ul>
         </div>
         <div class="footer-col">

@@ -4,11 +4,12 @@
     padding: $spacer-2;
     display: flex;
     justify-content: space-between;
-}
-.header-contact{
     a{
         color: $secondary;
     }
+}
+.header-contact{
+
     svg{
         margin-inline: $spacer-2;
     }

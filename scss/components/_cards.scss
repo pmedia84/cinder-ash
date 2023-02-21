@@ -88,18 +88,21 @@
 }
 //larger card for staff pages
 .staff-card-lg{
-    display: grid;
-
     padding: $spacer-2;
     display: flex;
     flex-direction: column;
     align-items: center;
+    .staff-card-header{
+        width: 100%;
+
+    }
     .staff-card-header img{
         height: 250px;
-        width: 250px;
+        width: 100%;
         object-fit: cover;
         object-position: top;
-        border-radius: $border-radius-2;
+        border-top-left-radius: $border-radius-2;
+        border-top-right-radius: $border-radius-2;
     }
     .staff-card-name{
         font-size: $fs-125;
@@ -112,7 +115,8 @@
     .staff-card-body{
         background-color: $primary-900;
         padding: $spacer-3;
-        border-radius: $border-radius-2;
+        border-bottom-left-radius: $border-radius-2;
+        border-bottom-right-radius: $border-radius-2;
     }
     //short intro card to the couples story
 .staff-card-text{
@@ -141,15 +145,9 @@
     top: 0;
     left: 0;
     right: 0;
-    height: 100svh;
+    height: 100%;
     z-index: 1000;
-    .staff-card-header img{
-        height: 250px;
-        width: 250px;
-        object-fit: cover;
-        object-position: top;
-        border-radius: $border-radius-2;
-    }
+
     .staff-card-name{
         font-size: $fs-125;
         font-family: $font-family-sans-serif;
@@ -174,9 +172,7 @@
 }
 
 @media(min-width:$md){
-    .staff-card-lg{
-        grid-template-columns: 1fr 1fr;
-    }
+
     .staff-card-modal-body{
         width: 80%;
         margin-inline: auto;
