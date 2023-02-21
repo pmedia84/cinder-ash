@@ -62,7 +62,11 @@
                 </div>
             </div>
         </section>
+        <section class="img-grid-auto my-4">
+            <img class="border-std" src="assets/img/gallery/inside5.jpg" alt="">
+            <img class="border-std" src="assets/img/gallery/inside6.jpg" alt="">
+            <img class="border-std" src="assets/img/gallery/outside2.jpg" alt="">
+        </section>
     </main>
-
     <?php include("inc/footer.inc.php"); ?>
 </body>

@@ -33,10 +33,10 @@
                 </div>
                 <h2 class="my-3">Benefits of outdoor learning</h2>
                 <div class="grid-row-3col">
-                    
+
                     <div class="feature-card">
                         <div class="feature-card-icon">
-                        <i class="fa-solid fa-person-walking"></i>
+                            <i class="fa-solid fa-person-walking"></i>
                         </div>
                         <div class="feature-card-body">
                             <div class="featurecard-title">
@@ -49,7 +49,7 @@
                     </div>
                     <div class="feature-card">
                         <div class="feature-card-icon">
-                        <i class="fa-solid fa-arrow-trend-up"></i>
+                            <i class="fa-solid fa-arrow-trend-up"></i>
                         </div>
                         <div class="feature-card-body">
                             <div class="featurecard-title">
@@ -62,7 +62,7 @@
                     </div>
                     <div class="feature-card">
                         <div class="feature-card-icon">
-                        <i class="fa-solid fa-thumbs-up"></i>
+                            <i class="fa-solid fa-thumbs-up"></i>
                         </div>
                         <div class="feature-card-body">
                             <div class="featurecard-title">
@@ -75,7 +75,7 @@
                     </div>
                     <div class="feature-card">
                         <div class="feature-card-icon">
-                        <i class="fa-solid fa-school"></i>
+                            <i class="fa-solid fa-school"></i>
                         </div>
                         <div class="feature-card-body">
                             <div class="featurecard-title">
@@ -86,10 +86,10 @@
                             </div>
                         </div>
                     </div>
-            
+
                     <div class="feature-card">
                         <div class="feature-card-icon">
-                        <i class="fa-solid fa-heart"></i>
+                            <i class="fa-solid fa-heart"></i>
                         </div>
                         <div class="feature-card-body">
                             <div class="featurecard-title">
@@ -120,13 +120,16 @@
                     </div>
                     <div class="grid-col">
                         <h2>Healthy Lunch Options</h2>
-                        <p>As much as possible we are keen to promote healthy choices within ourlunchboxes, ensuring the childen are gaining adequate amount of bothmacronutrients and micronutrients within their lunches. We use circle time as an opporutnity to discuss healthy ideas, and  the benefits of making healthy choices.There is a variety of ideas for lunchboxes avalaible within the entrance, or a member of staff will be able to providefurther assistance.</p>
+                        <p>As much as possible we are keen to promote healthy choices within ourlunchboxes, ensuring the childen are gaining adequate amount of bothmacronutrients and micronutrients within their lunches. We use circle time as an opporutnity to discuss healthy ideas, and the benefits of making healthy choices.There is a variety of ideas for lunchboxes avalaible within the entrance, or a member of staff will be able to providefurther assistance.</p>
                     </div>
                 </div>
 
             </div>
-
-
+        </section>
+        <section class="img-grid-auto my-4">
+            <img class="border-std" src="assets/img/gallery/play11.jpg" alt="">
+            <img class="border-std" src="assets/img/gallery/play4.jpg" alt="">
+            <img class="border-std" src="assets/img/gallery/play2.jpg" alt="">
         </section>
     </main>
 

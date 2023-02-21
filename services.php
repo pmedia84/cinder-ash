@@ -32,7 +32,7 @@
                     <p>With our pre-school children, we are still keen to promote learning through play, and with practitioner expertise and suitable engaging provision, our children are able to progress to towards their targets and develop their learning whilst having fun simultaneously. We encourage circle times and story times, as opportunities to develop our social development, and further our listening and attention skills.  </p><br>
                     <p>Termly we have a service come in to promote listening and participation skills,  currently this is the music man, which all the children are thoroughly enjoying, This is particularly applicable to those children who will be starting school in September, to prepare them for their new environment, and develop confidence in these areas. Social interaction is something, which we feel, is key to developing all other areas of learning, and promote this at the centre of our ethos, and this is reflected in the confident and prepared children that we transition to primary school.</p>
                 </div>
-                <img class="border-std-2" src="assets/img/gallery/play11.jpg" alt="">
+                <img class="border-std-2" src="assets/img/gallery/play15.jpg" alt="">
             </div>
         </section>
 
