@@ -32,6 +32,7 @@
             <li><a href="testimonials">Testimonials</a></li>
             <li><a href="contact">Contact</a></li>
             <li><a href="updates">Updates</a></li>
+            <li><a href="committee">Committee</a></li>
 
         </ul>
 

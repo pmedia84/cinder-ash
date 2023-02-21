@@ -1,7 +1,7 @@
 <?php include("inc/header.inc.php"); ?>
 
 <!-- Page specific information and scripts -->
-<title>Cinder Ash - Nursery and pre school in Long Sutton - Hear what our users have to say</title>
+<title>Cinder Ash - Nursery and pre school in Long Sutton - Our Policies</title>
 
 </head>
 

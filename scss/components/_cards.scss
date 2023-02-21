@@ -182,3 +182,18 @@
         margin-inline: auto;
     }
 }
+
+//featurecard with a hanging icon
+.feature-card{
+    display: flex;
+}
+.feature-card-icon{
+    margin-right: 1rem;
+    svg{
+        height: 25px;
+        width: 25px;
+        path{
+            fill: $tertiary-col;
+        }
+    }
+}
