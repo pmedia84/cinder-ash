@@ -194,8 +194,7 @@ a:hover{
     visibility: hidden;
 } 
 .nav-container {
-    padding: 1rem;
-    z-index: 100;
+    padding: .5rem 1rem;
     border-bottom: 2px solid hsl(16, 24%, 54%);
 } 
 .nav-bar{ /*inner nav bar*/
@@ -207,9 +206,9 @@ a:hover{
 .nav-brand{
     font-size: 2rem;
     font-weight: 400;
-    opacity: 1;
-    transition: opacity 600ms ease;
     max-height: 200px;
+    display: grid;
+    place-items: center;
 } 
 .nav-brand img{
         height: 80px;
@@ -228,7 +227,7 @@ a:hover{
     display: flex;
     flex-direction: column;
     position: absolute;
-    top: 166px;
+    top: 138px;
     left: 0;
     right: 0;
     z-index: 1000;

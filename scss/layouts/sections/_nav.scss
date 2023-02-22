@@ -1,6 +1,5 @@
 .nav-container {
-    padding: 1rem;
-    z-index: 100;
+    padding: .5rem 1rem;
     border-bottom: 2px solid $primary;
 }
 
@@ -14,9 +13,9 @@
 .nav-brand{
     font-size: $fs-200;
     font-weight: 400;
-    opacity: 1;
-    transition: opacity 600ms ease;
     max-height: 200px;
+    display: grid;
+    place-items: center;
     img{
         height: 80px;
         width: auto;
@@ -37,7 +36,7 @@
     display: flex;
     flex-direction: column;
     position: absolute;
-    top: 166px;
+    top: 138px;
     left: 0;
     right: 0;
     z-index: 1000;
