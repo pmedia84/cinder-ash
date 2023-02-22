@@ -16,7 +16,7 @@
             </div>
         </div>
 
-        <section class="container my-4">
+        <section class="container my-4" id="section-one">
             <h2 class="section-title text-center">Our current fees</h2>
             <div class="std-card">
             <table class="std-table">

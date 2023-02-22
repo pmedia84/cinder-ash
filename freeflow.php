@@ -16,7 +16,7 @@
             </div>
         </div>
 
-        <section class="container my-4">
+        <section class="container my-4" id="section-one">
             <h2 class="section-title text-center">Healthy Living</h2>
             <div class="std-card">
                 <div class="grid-row-2col">

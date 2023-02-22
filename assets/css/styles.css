@@ -142,6 +142,11 @@ h1, h2, h3, h4{
         
     }
 }
+/*align text superscripted*/
+.super{
+    vertical-align: super;
+    font-size:x-small;
+}
 body{
     /*  display: flex;*/
     /*  flex-direction: column;*/
@@ -401,6 +406,19 @@ footer ul{
         display: flex;
         justify-content: space-between;
     }
+} 
+.footer-request{
+    position: relative;
+} 
+.footer-col-response{
+    display: none;
+    background-color: rgb(255, 255, 255);
+    max-width: 250px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
 } 
 .hero {
     padding-block: 25vh;
@@ -1467,23 +1485,54 @@ input:checked + .slider:before {
         }
 .std-table td{
         padding: 0.5rem;
+        
+    }
+.std-table tr{
         border-bottom: 1px solid hsl(16, 24%, 54%);
     }
 .std-table tr:nth-child(even){
         background-color: hsl(16, 24%, 90%);
     }
-.guest-list-actions{
+.term-dates{
     width: 100%;
-    max-width: 100px;
-    margin: 0 auto;
-    display: flex;
-    justify-content: space-between;
-    padding: 0.25rem;
-    font-size: 1.25rem;
+    border-collapse: collapse;
 }
-.guest_group .guest-list-actions{
-    margin: 0;
-}
+.term-dates tr:first-of-type{
+        border-bottom: 0;
+    }
+.term-dates td:nth-child(even){
+        background-color: hsl(16, 24%, 90%);
+    }
+.term-dates th{
+        border-radius: 0px;
+    }
+.term-dates tr{
+        border-bottom: 1px solid hsl(16, 24%, 54%);
+    }
+.term-dates td, .term-dates th{
+        padding: 0.5rem;
+    }
+.term-dates .vert-heading{
+        text-align: initial;
+        writing-mode: sideways-lr;
+        width: 1rem;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        background-color: hsl(16, 24%, 54%);
+        color: #F2F2F2;
+        
+    }
+.term-dates tr:first-of-type .vert-heading{
+        border-top-left-radius: 10px;
+        
+    }
+.term-dates .subheading{
+        background-color: hsl(16, 24%, 90%);
+    }
+.term-dates .last{
+        /*last row in the group*/
+        border-bottom: 2px solid hsl(16, 24%, 54%);
+    }
 .countdown-container{
   background-image: url("../../assets/img/hero/index-hero.jpg");
   background-repeat: no-repeat;
@@ -1582,7 +1631,7 @@ input:checked + .slider:before {
     display: grid;
     place-items: center;
     border-radius: 10px;
-    background-color: hsl(16, 24%, 90%);
+    background-color: hsl(16, 24%, 50%);
     border: 1px solid hsl(16, 24%, 54%);
     opacity: 0;
     animation: return 5s ease infinite;
@@ -1593,7 +1642,7 @@ input:checked + .slider:before {
         height: 100%;
     }
 .return svg path{
-            fill: hsl(16, 24%, 54%);
+            fill: hsl(16, 24%, 90%);
         }
 @keyframes return{
     0%{transform: translatey(0px);}

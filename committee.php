@@ -16,7 +16,7 @@
             </div>
         </div>
 
-        <section class="container my-4">
+        <section class="container my-4" id="section-one">
             <h2 class="section-title text-center">Cinder Ash Committee</h2>
             <div class="std-card">
                 <p class="">Cinder Ash is a committee managed setting. This means a group of volunteers with a vested interest in the nursery, work in partnership with staff, to help manage the running of the setting and ensure the needs of children, staff and government requirements are being met. </p><br>

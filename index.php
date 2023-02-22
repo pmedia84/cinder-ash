@@ -19,7 +19,7 @@
                 <a href="contact" class="btn-primary">Contact Us</a>
             </div>
         </div>
-        <section class="container my-5 grid-row-3col">
+        <section class="container my-5 grid-row-3col" id="section-one">
             <div class="card">
                 <div class="card-icon">
                     <img src="assets/img/icons/toy-brick.svg" alt="">

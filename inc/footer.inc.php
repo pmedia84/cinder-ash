@@ -26,18 +26,22 @@
                 <li><a href="updates">Updates</a></li>
             </ul>
         </div>
-        <div class="footer-col">
+        <div class="footer-col footer-request">
+            <div class="footer-col-response">
+                <h3>Thank You</h3>
+                <p>Thank you for requesting further information from us. We will be in touch with you very soon.</p>
+            </div>
             <h3>Request Further Information</h3>
-            <form action="">
+            <form action="request-info.php" method="POST" id="request_info">
                 <div class="form-input-col">
                     <label for="visitor_name">Name</label>
-                    <input type="text" name="visitor_name" id="visitor_name" placeholder="Your name..." autocomplete="name">
+                    <input type="text" name="visitor_name" id="visitor_name" required placeholder="Your name..." autocomplete="name">
                 </div>
                 <div class="form-input-col">
                     <label for="visitor_email">Email Address</label>
-                    <input type="email" name="visitor_email" id="visitor_email" placeholder="Your email address..." autocomplete="email">
+                    <input type="email" name="visitor_email" id="visitor_email" required placeholder="Your email address..." autocomplete="email">
                 </div>
-                <button class="btn-primary my-2">Submit Request</button>
+                <div class="button-section my-2"><button class="btn-primary form-controls-btn loading-btn" type="submit">Send Request<img id="loading-icon" class="loading-icon d-none" src="./assets/img/icons/loading.svg" alt=""></button></div>
             </form>
         </div>
     </div>
@@ -79,6 +83,52 @@
     <button type="button" class="btn-close close-cookies" aria-label="Close"><i class="fa-solid fa-xmark"></i></button>
     <button class="btn btn-primary accept-cookies">Accept</button>
 </div>
+<button class="return" onclick="scrolltotop()" ><i class="fa-solid fa-chevron-up"></i></button>
+<script>
+$(document).ready(function(){
+    if(document.cookie.indexOf("requested_info=")<0){
+        $("#request_info :input").prop("disabled", false);
+        $(".footer-col-response").fadeOut(500);
+    }else{
+        $("#request_info :input").prop("disabled", true);
+        $(".footer-col-response").fadeIn(500);
+    }
+})
+
+$('#request_info').submit(function(event) {
+    event.preventDefault(); //prevent form default submit
+    //bring in recaptcha scripts and request token
+    grecaptcha.ready(function() {
+        grecaptcha.execute('6LdLOSYkAAAAAMhX6ojn3hk-B6v3-NWkLb-YrdB-', {
+            action: 'submit'
+        }).then(function(token) {
+            var formData = new FormData($("#request_info").get(0));
+            formData.append("token", token);//append the recaptcha token
+            $.ajax({ //start ajax post
+                type: "POST",
+                url: "scripts/request-info.php",
+                data: formData,
+                contentType: false,
+                processData: false,
+                beforeSend: function() { //animate button
+                    $("#loading-icon").show(400);
+                },
+                complete: function() {
+                    $("#loading-icon").hide(400);
+                },
+                success: function(data, responseText) {
+                    if(data ==="success"){
+                    document.cookie = "requested_info=yes; SameSite=None; Secure";
+                    $("#request_info :input").prop("disabled", true);
+                    $(".footer-col-response").fadeIn(500);
+                    }
+
+                }
+            });
+        });
+    });
+});
+</script>
 </footer>
 
 <script src="assets/js/app.js"></script>

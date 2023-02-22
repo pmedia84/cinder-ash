@@ -88,19 +88,19 @@ function initializeClock(id, endtime) {
 
 // }
 
-// window.onscroll = function() {returntop()};
-// var returnbtn = document.querySelector(".return");
-// var sectionone = document.getElementById("section-one");
-// var position = sectionone.offsetTop;
-// function returntop(){
+window.onscroll = function() {returntop()};
+var returnbtn = document.querySelector(".return");
+var sectionone = document.getElementById("section-one");
+var position = sectionone.offsetTop;
+function returntop(){
     
-//     if(window.scrollY>= position){
-//         console.log("hi");
-//         $(".return").addClass("return-active");
-//     }else{
-//         $(".return").removeClass("return-active");
-//     }
-// }
+    if(window.scrollY>= position){
+        console.log("hi");
+        $(".return").addClass("return-active");
+    }else{
+        $(".return").removeClass("return-active");
+    }
+}
 
 // When the user clicks on the button, scroll to the top of the document
 function scrolltotop() {
@@ -113,7 +113,7 @@ $(window).on('load', function() {
     if (document.cookie.indexOf("accepted_cookies=") < 0) {
       $('.cookie-overlay').fadeIn(400);
     }
-  
+    
     $('.accept-cookies').on('click', function() {
       document.cookie = "accepted_cookies=yes;"
       $('.cookie-overlay').fadeOut(400);

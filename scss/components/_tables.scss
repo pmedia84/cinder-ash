@@ -19,6 +19,9 @@
     }
     td{
         padding: $spacer-2;
+        
+    }
+    tr{
         border-bottom: 1px solid $primary;
     }
     tr:nth-child(even){
@@ -26,16 +29,44 @@
     }
 }
 
-.guest-list-actions{
-    width: 100%;
-    max-width: 100px;
-    margin: 0 auto;
-    display: flex;
-    justify-content: space-between;
-    padding: $spacer-1;
-    font-size: 1.25rem;
-}
 
-.guest_group .guest-list-actions{
-    margin: 0;
+.term-dates{
+    width: 100%;
+    border-collapse: collapse;
+    tr:first-of-type{
+        border-bottom: 0;
+    }
+    td:nth-child(even){
+        background-color: $primary-900;
+    }
+    th{
+        border-radius: 0px;
+    }
+    tr{
+        border-bottom: 1px solid $primary;
+    }
+    td, th{
+        padding: $spacer-2;
+    }
+   .vert-heading{
+        text-align: initial;
+        writing-mode: sideways-lr;
+        width: 1rem;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        background-color: $primary;
+        color: $secondary;
+        
+    }
+    tr:first-of-type .vert-heading{
+        border-top-left-radius: $border-radius-2;
+        
+    }
+    .subheading{
+        background-color: $primary-900;
+    }
+    .last{
+        //last row in the group
+        border-bottom: 2px solid $primary ;
+    }
 }

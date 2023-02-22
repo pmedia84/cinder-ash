@@ -16,7 +16,7 @@
             </div>
         </div>
 
-        <section class="container my-4">
+        <section class="container my-4" id="section-one">
 
             <div class="std-card grid-row-2col">
                 <div class="grid-col">
@@ -45,23 +45,7 @@
                 </div>
             </div>
         </section>
-        <section class="container my-4">
-            <div class="std-card grid-row-2col">
-                <div class="grid-col">
-                    <h2>Term Dates 2022 / 2023</h2>
-                </div>
-                <div class="grid-col">
-                    <ul class="opening-hrs">
-                        <li>Term 1 <span></span></li>
-                        <li>Term 2 <span></span></li>
-                        <li>Term 3 <span></span></li>
-                        <li>Term 4 <span></span></li>
-                        <li>Term 5 <span></span></li>
-                        <li>Term 6 <span></span></li>
-                    </ul>
-                </div>
-            </div>
-        </section>
+        
         <section class="img-grid-auto my-4">
             <img class="border-std" src="assets/img/gallery/inside5.jpg" alt="">
             <img class="border-std" src="assets/img/gallery/inside6.jpg" alt="">
