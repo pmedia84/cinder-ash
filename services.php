@@ -24,7 +24,7 @@
                     <p>As much as we are keen to promote an integrated age group approach to our setting, we recognise the quieter time that our under two’s may need, and have a separate area of the room dedicated to them, furnished with soft cosy provision and age appropriate resources. This area is accessible to all; however, children are aware it’s predominantly for our younger children, and ensure it is a calmer area to explore in.</p><br>
                     <p>Keyworkers are at the core of our values, particularly with our under two’s, promoting attachment as a secure base for learning and development. We are currently looking into an enclosed outdoor space, to fully ensure we meet all the needs of our youngest children.</p>
                 </div>
-                <img class="border-std-2" src="assets/img/gallery/play11.jpg" alt="">
+                <img class="border-std-2" src="assets/img/gallery/play10.webp" alt="">
             </div>
             <div class="std-card grid-row-2col my-3">
                 <div class="grid-col">
@@ -32,7 +32,7 @@
                     <p>With our pre-school children, we are still keen to promote learning through play, and with practitioner expertise and suitable engaging provision, our children are able to progress to towards their targets and develop their learning whilst having fun simultaneously. We encourage circle times and story times, as opportunities to develop our social development, and further our listening and attention skills.  </p><br>
                     <p>Termly we have a service come in to promote listening and participation skills,  currently this is the music man, which all the children are thoroughly enjoying, This is particularly applicable to those children who will be starting school in September, to prepare them for their new environment, and develop confidence in these areas. Social interaction is something, which we feel, is key to developing all other areas of learning, and promote this at the centre of our ethos, and this is reflected in the confident and prepared children that we transition to primary school.</p>
                 </div>
-                <img class="border-std-2" src="assets/img/gallery/play15.jpg" alt="">
+                <img class="border-std-2" src="assets/img/gallery/play15.webp" alt="">
             </div>
         </section>
 
@@ -53,9 +53,9 @@
             </div>
         </section>
 <section class="img-grid-auto my-4">
-    <img class="border-std" src="assets/img/gallery/play8.jpg" alt="">
-    <img class="border-std" src="assets/img/gallery/play9.jpg" alt="">
-    <img class="border-std" src="assets/img/gallery/play10.jpg" alt="">
+    <img class="border-std" src="assets/img/gallery/play8.webp" alt="">
+    <img class="border-std" src="assets/img/gallery/play9.webp" alt="">
+    <img class="border-std" src="assets/img/gallery/play10.webp" alt="">
 </section>
 
 
