@@ -24,7 +24,7 @@
                     <p>We are a mixed age group setting, taking children from six weeks through to pre-school, with a focus on free flow learning and child led play. We are OFSTED rated good, and our report can be accessed <a href="https://files.api.ofsted.gov.uk/v1/file/2740795" target="_blank">Here</a>. </p><br>
                     <p>We offer two year old funding for those eligble, fifteen hour early years entitlement funding to all 3 and 4 year olds, and thirty hour funding to those three and four year olds eligble for this. Funding can be accessed on a standard basis (38 weeks of the year term time only), or stretched (47.5 weeks of the year). Fee paying hours can be accessed for 51 weeks of the year.</p>
                 </div>
-                <img class="border-std-2" src="assets/img/gallery/play11.jpg" alt="">
+                <img class="border-std-2" src="assets/img/gallery/play11.webp" alt="">
             </div>
         </section>
 
@@ -47,9 +47,9 @@
         </section>
         
         <section class="img-grid-auto my-4">
-            <img class="border-std" src="assets/img/gallery/inside5.jpg" alt="">
-            <img class="border-std" src="assets/img/gallery/inside6.jpg" alt="">
-            <img class="border-std" src="assets/img/gallery/outside2.jpg" alt="">
+            <img class="border-std" src="assets/img/gallery/inside5.webp" alt="">
+            <img class="border-std" src="assets/img/gallery/inside6.webp" alt="">
+            <img class="border-std" src="assets/img/gallery/outside2.webp" alt="">
         </section>
     </main>
     <?php include("inc/footer.inc.php"); ?>
