@@ -57,7 +57,7 @@
                 <a href="about" class="btn-primary my-3">Find Out More</a>
             </div>
             <div class="grid-col grid-col-left">
-                <img class="border-std" src="assets/img/gallery/play3.jpg" alt="" height="250px">
+                <img class="border-std" src="assets/img/gallery/play3.webp" alt="" height="250px">
             </div>
         </section>
         <section class="container">
