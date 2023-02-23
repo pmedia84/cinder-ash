@@ -44,7 +44,7 @@
                 </div>
                 <div class="card-body">
                     <h3>Ofsted rated Good</h3>
-                    <p>We are Ofsted rated Good, and you can access our report <a href="">Here</a></p>
+                    <p>We are Ofsted rated Good, and you can access our report <a href="https://files.api.ofsted.gov.uk/v1/file/2740795" target="_blank">Here</a></p>
                 </div>
             </div>
         </section>
@@ -63,7 +63,6 @@
             <h2 class="text-center">What We Provide</h2>
             <p class="text-center mb-3"> A relaxed learning environment where your child can learn through play.......</p>
             <div class="img-grid-auto">
-
                 <div class="img-card">
                     <img src="assets/img/gallery/inside4.jpg" alt="">
                     <div class="img-card-caption">

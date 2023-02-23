@@ -94,7 +94,7 @@
                         <th>Details</th>
                     </tr>
                     <tr>
-                        <td>2nd March</td>
+                        <td>2<span class="super">nd</span> March</td>
                         <td>World Book Day</td>
                     </tr>
                 </table>

@@ -25,7 +25,7 @@
                             <li><span class="fa-li"><i class="fa-solid fa-phone"></i></span><span class="sr-only">Phone:</span> <span><a href="tel:01406 258382" itemprop="telephone">01406 258382</a> </span></li>
                             <li><span class="fa-li"><i class="fa-solid fa-envelope"></i></span><span class="sr-only">eMail:</span> <span><a href="mailto:cinderashpre-school@hotmail.co.uk" itemprop="email"> cinderashpre-school@hotmail.co.uk</a></span></li>
                             <li><span class="fa-li"><i class="fa-regular fa-registered"></i></span>Registered Charity No. <span>518581</span></li>
-                            <li><span class="fa-li"><i class="fa-solid fa-check-square"></i></span>Ofsted Registration No. <span>253615</span></li>
+                            <li><span class="fa-li"><i class="fa-regular fa-registered"></i></span>Ofsted Registration No. <span>253615</span></li>
                             <li><span class="fa-li"><i class="fa-brands fa-facebook-f"></i></span><a href="https://www.facebook.com/profile.php?id=100013728515694" target="_blank">Facebook Lucy Cooper</a></li>
                         </ul>
                         <h3>Address</h3>

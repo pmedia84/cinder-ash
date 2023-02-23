@@ -1,17 +1,18 @@
-//image card wwith a caption inside the image
+//image card with a caption inside the image
 .img-card{
-    border-radius: $border-radius;
     position: relative;
     height: 100%;
-    overflow: hidden;
-    
-    border: 2px solid $primary;
     img{
-        height: 100%;
+        border-radius: $border-radius;
+        border: 2px solid $primary;
         object-fit: cover;
+        height: 100%;
     }
 }
 .img-card-caption{
+    border: 2px solid transparent;
+    border-bottom-left-radius: $border-radius;
+    border-bottom-right-radius: $border-radius;
     position: absolute;
     bottom: 0;
     left: 0;
@@ -117,6 +118,7 @@
         padding: $spacer-3;
         border-bottom-left-radius: $border-radius-2;
         border-bottom-right-radius: $border-radius-2;
+        flex-grow: 1;
     }
     //short intro card to the couples story
 .staff-card-text{

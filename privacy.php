@@ -63,8 +63,12 @@ $emailaddress = "cinderashpre-school@hotmail.co.uk";
                 <p>Helpline number: 0303 123 1113</p>
                 <p>ICO website: <a href="https://www.ico.org.uk" target="_blank" rel="noopener">www.ico.org.uk</a></p>
                 <h2>How We Use Cookies</h2>
-                <p>We do not use any cookies on this website that would track you.</p>
-                <p>Cookies are simply used on this website to allow 3rd party integrations to run, such as our Map embed on our contact page or the Font styles that we use.</p>
+                <p>We do not use any cookies on this website that would track you, such as for advertising.</p>
+                <ul role="list">
+                    <li>To allow the use of our map on our contact page</li>
+                    <li>To allow 3rd party integration such as our fonts, and our icons.</li>
+                    <li>To track if you have accepted our cookie policy or requested any information from us. In these cases, none of you details are stored, it is a cookies that is stored in your browser.</li>
+                </ul>
             </div>
         </section>
         
