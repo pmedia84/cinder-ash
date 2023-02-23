@@ -3,7 +3,7 @@
         <div class="footer-col footer-address" itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
             <img src="assets/img/logo/logo.png" alt="">
             <p itemprop="streetAddress">The Pavilion, Park Road</p>
-            <p><span itemprop="addressLocality">Long Sutton</span>, <span itemprop="addressReggion">Spalding</span></p>
+            <p><span itemprop="addressLocality">Long Sutton</span>, <span itemprop="addressRegion">Spalding</span></p>
             <p itemprop="postalCode">PE12 9DJ</p>
         </div>
         <div class="footer-col">
