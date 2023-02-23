@@ -32,7 +32,7 @@
     <meta property="og:url" content="">
     <meta property="og:type" content="Website">
     <!-- /OG Meta Tags -->
-    <!-- Scheme -->
+    <meta name="description" content="Nursery and pre school in Long Sutton. Contact us to find out more.">
 
 
     <!-- Everything above this is for the head element. And is displayed on every web page -->

@@ -83,7 +83,7 @@
     <button type="button" class="btn-close close-cookies" aria-label="Close"><i class="fa-solid fa-xmark"></i></button>
     <button class="btn btn-primary accept-cookies">Accept</button>
 </div>
-<button class="return" onclick="scrolltotop()" ><i class="fa-solid fa-chevron-up"></i></button>
+<button class="return" onclick="scrolltotop()" type="button" aria-label="return to top"><span class="sr-only">Return To Top</span><i class="fa-solid fa-chevron-up"></i></button>
 <script>
 $(document).ready(function(){
     if(document.cookie.indexOf("requested_info=")<0){

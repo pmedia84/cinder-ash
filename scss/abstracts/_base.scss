@@ -13,7 +13,7 @@ body{
 }
 
 a{
-    color: $primary;
+    color: hsl(16deg 20% 36%);
     display: inline-block;
     &:hover{
         opacity: 0.8;

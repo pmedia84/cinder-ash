@@ -62,8 +62,9 @@
     }
 }
 .card-body{
-    h3{
+    h2{
         color: $primary;
+        font-size: $fs-125;
     }
     p{
         font-weight: 300;

@@ -3,13 +3,13 @@
         <i class="fa-solid fa-phone"></i><span itemprop="telephone"> <a href="tel:01406 258382">01406 258382</a> </span>
         </div>
         <div class="header-socials">
-        <a href="https://www.facebook.com/profile.php?id=100013728515694" target="_blank" rel="noreferrer"><i class="fa-brands fa-facebook-f"></i></a>
+        <a href="https://www.facebook.com/profile.php?id=100013728515694" target="_blank" rel="noreferrer" aria-label="Follow link to find us on Facebook"><i class="fa-brands fa-facebook-f"></i></a>
         </div>
     </div>
 <div class="nav-container">
     <nav class="nav-bar">
         <div class="nav-brand">
-            <a href="/"><img src="assets/img/logo/logo.png" alt=""></a>
+            <a href="/"><img src="assets/img/logo/logo.png" alt="" aria-label="Return to home page"></a>
         </div>
         <button class="nav-btn" aria-controls="nav-links" id="nav-btn" type="button" aria-label="Menu" aria-expanded="false">
             <svg class="hamburger" viewBox="0 0 100 100" width="50">

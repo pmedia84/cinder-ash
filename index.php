@@ -2,6 +2,7 @@
 
 <!-- Page specific information and scripts -->
 <title>Nursery and pre school in Long Sutton - Cinder Ash</title>
+
 <!-- Slider -->
 <link rel="stylesheet" type="text/css" href="assets/slick/slick.css" />
 <link rel="stylesheet" type="text/css" href="assets/slick/slick-theme.css" />
@@ -25,7 +26,7 @@
                     <img src="assets/img/icons/toy-brick.svg" alt="">
                 </div>
                 <div class="card-body">
-                    <h3>Learn through play</h3>
+                    <h2>Learn through play</h2>
                     <p>We are a mixed age group setting, taking children from six weeks through to pre-school, with a focus on free flow learning and child led play</p>
                 </div>
             </div>
@@ -34,7 +35,7 @@
                     <img src="assets/img/icons/baby.svg" alt="">
                 </div>
                 <div class="card-body">
-                    <h3>Mixed age groups</h3>
+                    <h2>Mixed age groups</h2>
                     <p>We offer two year old funding for those eligible, fifteen hour early years entitlement funding to all 3 and 4 year olds, and thirty hour funding to those three and four year olds eligible for this.</p>
                 </div>
             </div>
@@ -43,8 +44,8 @@
                     <img src="assets/img/icons/star.svg" alt="">
                 </div>
                 <div class="card-body">
-                    <h3>Ofsted rated Good</h3>
-                    <p>We are Ofsted rated Good, and you can access our report <a href="https://files.api.ofsted.gov.uk/v1/file/2740795" target="_blank">Here</a></p>
+                    <h2>Ofsted rated Good</h2>
+                    <p>We are Ofsted rated Good, and you can access our <a href="https://files.api.ofsted.gov.uk/v1/file/2740795" target="_blank">latest Ofsted Report</a> here</p>
                 </div>
             </div>
         </section>
@@ -64,7 +65,7 @@
             <p class="text-center mb-3"> A relaxed learning environment where your child can learn through play.......</p>
             <div class="img-grid-auto">
                 <div class="img-card">
-                    <img src="assets/img/gallery/inside4.jpg" alt="">
+                    <img src="assets/img/gallery/inside4.webp" alt="">
                     <div class="img-card-caption">
                         <p>Lorem, ipsum.</p>
                     </div>
@@ -72,32 +73,32 @@
 
 
                 <div class="img-card">
-                    <img src="assets/img/gallery/inside2.jpg" alt="">
+                    <img src="assets/img/gallery/inside2.webp" alt="">
                     <div class="img-card-caption">
                         <p>Lorem, ipsum.</p>
                     </div>
                 </div>
                 <div class="img-card">
-                    <img src="assets/img/gallery/inside3.jpg" alt="">
+                    <img src="assets/img/gallery/inside3.webp" alt="">
                     <div class="img-card-caption">
                         <p>Lorem, ipsum.</p>
                     </div>
                 </div>
 
                 <div class="img-card">
-                    <img src="assets/img/gallery/outside1.jpg" alt="">
+                    <img src="assets/img/gallery/outside1.webp" alt="">
                     <div class="img-card-caption">
                         <p>Lorem, ipsum.</p>
                     </div>
                 </div>
                 <div class="img-card">
-                    <img src="assets/img/gallery/play1.jpg" alt="">
+                    <img src="assets/img/gallery/play1.webp" alt="">
                     <div class="img-card-caption">
                         <p>Lorem, ipsum.</p>
                     </div>
                 </div>
                 <div class="img-card">
-                    <img src="assets/img/gallery/play2.jpg" alt="">
+                    <img src="assets/img/gallery/play2.webp" alt="">
                     <div class="img-card-caption">
                         <p>Lorem, ipsum.</p>
                     </div>
@@ -110,21 +111,21 @@
             <div class="grid-row-3col">
                 <div class="staff-card">
                     <div class="staff-card-header">
-                        <img src="assets/img/staff/lucy.jpg" alt="">
+                        <img src="assets/img/staff/lucy.webp" alt="">
                     </div>
                     <p class="staff-card-name text-center" itemprop="employee">Lucy Cooper</p>
                     <p class="staff-card-title text-center">Manager</p>
                 </div>
                 <div class="staff-card">
                     <div class="staff-card-header">
-                        <img src="assets/img/staff/charlotte.jpg" alt="">
+                        <img src="assets/img/staff/charlotte.webp" alt="">
                     </div>
                     <p class="staff-card-name text-center" itemprop="employee">Charlotte</p>
                     <p class="staff-card-title text-center">Deputy Manager &amp; SENCo</p>
                 </div>
                 <div class="staff-card">
                     <div class="staff-card-header">
-                        <img src="assets/img/staff/melissa.jpg" alt="">
+                        <img src="assets/img/staff/melissa.webp" alt="">
                     </div>
                     <p class="staff-card-name text-center" itemprop="employee">Melissa</p>
                     <p class="staff-card-title text-center">Floor Manager</p>
@@ -137,24 +138,24 @@
             <img src="" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt="">
         </section>
         <section class="slick">
-            <div class="slide"><img src="assets/img/gallery/inside1.jpg" alt=""></div>
-            <div class="slide"><img src="assets/img/gallery/inside2.jpg" alt=""></div>
-            <div class="slide"><img src="assets/img/gallery/outside1.jpg" alt=""></div>
-            <div class="slide"><img src="assets/img/gallery/play1.jpg" alt=""></div>
-            <div class="slide"><img src="assets/img/gallery/play2.jpg" alt=""></div>
-            <div class="slide"><img src="assets/img/gallery/play3.jpg" alt=""></div>
-            <div class="slide"><img src="assets/img/gallery/play4.jpg" alt=""></div>
-            <div class="slide"><img src="assets/img/gallery/play5.jpg" alt=""></div>
-            <div class="slide"><img src="assets/img/gallery/play6.jpg" alt=""></div>
-            <div class="slide"><img src="assets/img/gallery/play7.jpg" alt=""></div>
-            <div class="slide"><img src="assets/img/gallery/play8.jpg" alt=""></div>
-            <div class="slide"><img src="assets/img/gallery/play9.jpg" alt=""></div>
-            <div class="slide"><img src="assets/img/gallery/play10.jpg" alt=""></div>
+            <div class="slide"><img src="assets/img/gallery/inside1.webp" alt=""></div>
+            <div class="slide"><img src="assets/img/gallery/inside2.webp" alt=""></div>
+            <div class="slide"><img src="assets/img/gallery/outside1.webp" alt=""></div>
+            <div class="slide"><img src="assets/img/gallery/play1.webp" alt=""></div>
+            <div class="slide"><img src="assets/img/gallery/play2.webp" alt=""></div>
+            <div class="slide"><img src="assets/img/gallery/play3.webp" alt=""></div>
+            <div class="slide"><img src="assets/img/gallery/play4.webp" alt=""></div>
+            <div class="slide"><img src="assets/img/gallery/play5.webp" alt=""></div>
+            <div class="slide"><img src="assets/img/gallery/play6.webp" alt=""></div>
+            <div class="slide"><img src="assets/img/gallery/play7.webp" alt=""></div>
+            <div class="slide"><img src="assets/img/gallery/play8.webp" alt=""></div>
+            <div class="slide"><img src="assets/img/gallery/play9.webp" alt=""></div>
+            <div class="slide"><img src="assets/img/gallery/play10.webp" alt=""></div>
 
         </section>
         <section class="">
             <h2 class="section-title text-center my-3">Find Us</h2>
-            <iframe width="100%" height="400px" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJF_ELv2H510cROXY4vLConj0&key=AIzaSyCUbVYYbH8fD_3C7jRBX6KkNjL8I2xJPoA"></iframe> 
+            <iframe title="Google Map" width="100%" height="400px" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJF_ELv2H510cROXY4vLConj0&key=AIzaSyCUbVYYbH8fD_3C7jRBX6KkNjL8I2xJPoA"></iframe> 
         </section>
     </main>
     <script type="text/javascript" src="assets/slick/slick.min.js"></script>

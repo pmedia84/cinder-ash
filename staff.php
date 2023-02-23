@@ -22,7 +22,7 @@
                 <div class="grid-row-3col my-2">
                     <div class="staff-card-lg">
                         <div class="staff-card-header">
-                            <img src="assets/img/staff/lucy.jpg" alt="">
+                            <img src="assets/img/staff/lucy.webp" alt="">
                         </div>
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Lucy Cooper</p>
@@ -33,7 +33,7 @@
                     </div>
                     <div class="staff-card-lg">
                         <div class="staff-card-header">
-                            <img src="assets/img/staff/charlotte.jpg" alt="">
+                            <img src="assets/img/staff/charlotte.webp" alt="">
                         </div>
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Charlotte</p>
@@ -44,7 +44,7 @@
                     </div>
                     <div class="staff-card-lg">
                         <div class="staff-card-header">
-                            <img src="assets/img/staff/melissa.jpg" alt="">
+                            <img src="assets/img/staff/melissa.webp" alt="">
                         </div>
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Melissa</p>
@@ -57,7 +57,7 @@
                 <div class="grid-row-3col">
                     <div class="staff-card-lg">
                         <div class="staff-card-header">
-                            <img src="assets/img/staff/amy.jpg" alt="">
+                            <img src="assets/img/staff/amy.webp" alt="">
                         </div>
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Amy</p>
@@ -68,7 +68,7 @@
                     </div>
                     <div class="staff-card-lg">
                         <div class="staff-card-header">
-                            <img src="assets/img/staff/beth.jpg" alt="">
+                            <img src="assets/img/staff/beth.webp" alt="">
                         </div>
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Beth</p>
@@ -79,7 +79,7 @@
                     </div>
                     <div class="staff-card-lg">
                         <div class="staff-card-header">
-                            <img src="assets/img/staff/laura.jpg" alt="">
+                            <img src="assets/img/staff/laura.webp" alt="">
                         </div>
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Laura</p>
@@ -92,7 +92,7 @@
                 <div class="grid-row-3col">
                 <div class="staff-card-lg">
                         <div class="staff-card-header">
-                            <img src="assets/img/staff/jack.jpg" alt="">
+                            <img src="assets/img/staff/jack.webp" alt="">
                         </div>
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Jack</p>
@@ -103,7 +103,7 @@
                     </div>
                     <div class="staff-card-lg">
                         <div class="staff-card-header">
-                            <img src="assets/img/staff/chloe.jpg" alt="">
+                            <img src="assets/img/staff/chloe.webp" alt="">
                         </div>
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Chloe</p>
@@ -114,7 +114,7 @@
                     </div>
                     <div class="staff-card-lg">
                         <div class="staff-card-header">
-                            <img src="assets/img/staff/suzanne.jpg" alt="">
+                            <img src="assets/img/staff/suzanne.webp" alt="">
                         </div>
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Suzanne</p>

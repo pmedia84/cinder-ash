@@ -22,7 +22,7 @@
     }
     a{
         text-decoration: none;
-        color: $primary-950;
+        color: black;
         span{
             font-size: 3rem;
             margin-inline: $spacer-2;
@@ -55,7 +55,7 @@
         padding: $spacer-2;
         width: 100%;
         text-align: center;
-        font-size: $fs-125;
+        font-size: $fs-150;
         color: $primary;
         margin-block: $spacer-2;
         animation: navopen 300ms ease-in-out forwards;
