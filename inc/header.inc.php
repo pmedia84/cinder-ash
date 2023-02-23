@@ -32,7 +32,7 @@
     <meta property="og:url" content="">
     <meta property="og:type" content="Website">
     <!-- /OG Meta Tags -->
-    <meta name="description" content="Nursery and pre school in Long Sutton. Contact us to find out more.">
+    <meta name="description" content="Cinder Ash - Nursery in Long Sutton, We are a mixed age group setting, taking children from six weeks through to pre-school, with a focus on free flow learning">
 
 
     <!-- Everything above this is for the head element. And is displayed on every web page -->
