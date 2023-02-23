@@ -1,7 +1,7 @@
 <?php include("inc/header.inc.php"); 
 $emailaddress = "cinderashpre-school@hotmail.co.uk";
 ?>
-
+<meta name="description" content="Cinder Ash - Our privacy and cookie policy.">
 <!-- Page specific information and scripts -->
 <title>Cinder Ash - Nursery and pre school in Long Sutton - Privacy Policy</title>
 

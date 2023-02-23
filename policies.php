@@ -1,5 +1,5 @@
 <?php include("inc/header.inc.php"); ?>
-
+<meta name="description" content="Cinder Ash - Download our policy documents">
 <!-- Page specific information and scripts -->
 <title>Cinder Ash - Nursery and pre school in Long Sutton - Our Policies</title>
 

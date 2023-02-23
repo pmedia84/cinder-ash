@@ -1,5 +1,5 @@
 <?php include("inc/header.inc.php"); ?>
-
+<meta name="description" content="Cinder Ash - Nursery in Long Sutton, We are a mixed age group setting, taking children from six weeks through to pre-school, with a focus on free flow learning">
 <!-- Page specific information and scripts -->
 <title>Nursery and pre school in Long Sutton - Cinder Ash</title>
 
@@ -154,6 +154,7 @@
 
         </section>
         <section class="">
+
             <h2 class="section-title text-center my-3">Find Us</h2>
             <iframe title="Google Map" width="100%" height="400px" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJF_ELv2H510cROXY4vLConj0&key=AIzaSyCUbVYYbH8fD_3C7jRBX6KkNjL8I2xJPoA"></iframe> 
         </section>

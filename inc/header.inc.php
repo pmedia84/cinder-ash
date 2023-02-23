@@ -18,7 +18,7 @@
     <!-- Font Awesome -->
     <script src="https://kit.fontawesome.com/3318fdaaaf.js" crossorigin="anonymous" defer></script>
     <!-- Google Recaptcha -->
-    <script src="https://www.google.com/recaptcha/api.js?render=6LdLOSYkAAAAAMhX6ojn3hk-B6v3-NWkLb-YrdB-" async="false" defer></script>
+    <script src="https://www.google.com/recaptcha/api.js?render=6LeRdqkkAAAAAHn11l-i3DDK9vgpi10iULGTpMHT" async="false" defer></script>
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" defer>
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin  defer>
@@ -32,7 +32,7 @@
     <meta property="og:url" content="">
     <meta property="og:type" content="Website">
     <!-- /OG Meta Tags -->
-    <meta name="description" content="Cinder Ash - Nursery in Long Sutton, We are a mixed age group setting, taking children from six weeks through to pre-school, with a focus on free flow learning">
+
 
 
     <!-- Everything above this is for the head element. And is displayed on every web page -->

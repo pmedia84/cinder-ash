@@ -11,8 +11,8 @@ include("../email_settings.php");
 $response="";
 if (isset($_POST['token']) && $_POST['token'] >NULL){
    //Recaptcha security test
-   $site_key = '6LdLOSYkAAAAAMhX6ojn3hk-B6v3-NWkLb-YrdB-'; //site key from recaptcha admin
-   $secret_key = '6LdLOSYkAAAAAL0zkdtau7J4f9wT1E0uqjXiq4Mn';//secret key from recaptcha admin file
+   $site_key = '6LeRdqkkAAAAAHn11l-i3DDK9vgpi10iULGTpMHT'; //site key from recaptcha admin
+   $secret_key = '6LeRdqkkAAAAADPOqG_qKv0GgReqhRMgBi9RzTl3';//secret key from recaptcha admin file
     
    $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret_key.'&response='.$_POST['token']);//verify the response with the token generated from the user inout
 
