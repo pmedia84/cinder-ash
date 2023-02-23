@@ -26,7 +26,7 @@
                         <p>Not only do we feel this is very beneficial for learning but for health also. We are strong believers in there being no inappropriate weather, just innapropriate clothing.</p>
                     </div>
                     <div class="grid-col">
-                        <img src="assets/img/gallery/play12.jpg" alt="" class="border-std-2">
+                        <img src="assets/img/gallery/play12.webp" alt="" class="border-std-2">
 
                     </div>
 
@@ -109,7 +109,7 @@
                         <p>We feel it is good to use lots of our energy to promote healthier lifestyles, and ensure all of the children are accessing appropriate physical activity daily.</p>
                     </div>
                     <div class="grid-col">
-                        <img src="assets/img/gallery/play14.jpg" alt="" class="border-std-2">
+                        <img src="assets/img/gallery/play14.webp" alt="" class="border-std-2">
                     </div>
                 </div>
 
@@ -127,9 +127,9 @@
             </div>
         </section>
         <section class="img-grid-auto my-4">
-            <img class="border-std" src="assets/img/gallery/play11.jpg" alt="">
-            <img class="border-std" src="assets/img/gallery/play4.jpg" alt="">
-            <img class="border-std" src="assets/img/gallery/play2.jpg" alt="">
+            <img class="border-std" src="assets/img/gallery/play11.webp" alt="">
+            <img class="border-std" src="assets/img/gallery/play4.webp" alt="">
+            <img class="border-std" src="assets/img/gallery/play2.webp" alt="">
         </section>
     </main>
 
