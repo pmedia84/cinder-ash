@@ -31,20 +31,20 @@
 
 
 .hero {
-    background-image: url("../../assets/img/hero/index-hero-sm.jpg");
+    background-image: url("../../assets/img/hero/index-hero-sm.webp");
 
 }
 
 @media(min-width:$md) {
     .hero {
-        background-image: url("../../assets/img/hero/index-hero-med.jpg");
+        background-image: url("../../assets/img/hero/index-hero-med.webp");
 
     }
 }
 
 @media(min-width:$lg) {
     .hero {
-        background-image: url("../../assets/img/hero/index-hero-lg.jpg");
+        background-image: url("../../assets/img/hero/index-hero-lg.webp");
 
     }
 }
