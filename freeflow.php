@@ -10,7 +10,7 @@
     <main>
         <div class="hero about-hero">
             <div class="hero-container">
-                <h1 class="hero-title">Freeflow</h1>
+                <h1 class="hero-title">Freeflow at Cinder Ash</h1>
                 <p class="hero-subtitle">Whatever the weather, we are keen to promote free flow learning.</p>
 
             </div>

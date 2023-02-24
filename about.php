@@ -11,7 +11,7 @@
         <div class="hero about-hero">
             <div class="hero-container">
                 <h1 class="hero-title">About Us</h1>
-                <p class="hero-subtitle">We are a mixed age group setting, taking children from six weeks through to pre-school</p>
+                <p class="hero-subtitle">Cinder Ash is a mixed age group setting, taking children from six weeks through to pre-school</p>
 
             </div>
         </div>
