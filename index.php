@@ -63,15 +63,13 @@
         <section class="container">
             <h2 class="text-center">What We Provide</h2>
             <p class="text-center mb-3"> A relaxed learning environment where your child can learn through play.......</p>
-            <div class="img-grid-auto">
+            <div class="grid-row-3col">
                 <div class="img-card">
                     <img src="assets/img/gallery/inside4.webp" alt="">
                     <div class="img-card-caption">
                         <p>Lorem, ipsum.</p>
                     </div>
                 </div>
-
-
                 <div class="img-card">
                     <img src="assets/img/gallery/inside2.webp" alt="">
                     <div class="img-card-caption">
@@ -84,7 +82,6 @@
                         <p>Lorem, ipsum.</p>
                     </div>
                 </div>
-
                 <div class="img-card">
                     <img src="assets/img/gallery/outside1.webp" alt="">
                     <div class="img-card-caption">
@@ -103,7 +100,15 @@
                         <p>Lorem, ipsum.</p>
                     </div>
                 </div>
-
+            </div>
+        </section>
+        <section class="container my-3">
+            <div class="std-card">
+                <h2 class="text-center">Our Curriculum</h2>
+                <div class="grid-row-2col">
+                    <p>Our curriculum is made up of the development matters and birth to five documents. Using both tools helps us to consider and support all round development for your children. We provide a free flow setting, providing opportunities for all of our children to flourish within their own learning, and a highly skilled staff team to scaffold and challenge individual learning. Planned activities and invitations to play  are brought to life within our mixed age environment to support and enhance our children’s learning, based on our children’s current interests. </p>
+                    <img class="border-std-2" src="assets/img/gallery/play16.webp"  width="500" alt="" >
+                </div>
             </div>
         </section>
         <section class="container my-5">

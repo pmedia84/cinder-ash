@@ -33,23 +33,23 @@
                     </div>
                     <div class="staff-card-lg">
                         <div class="staff-card-header">
-                            <img src="assets/img/staff/charlotte.webp" alt="">
-                        </div>
-                        <div class="staff-card-body">
-                            <p class="staff-card-name text-center">Charlotte</p>
-                            <p class="staff-card-title text-center">Deputy Manager &amp; SENCo</p>
-                            <p class="staff-card-text">Charlotte is our deputy manager, taking on the role if manager in the absence of Lucy and Melissa. She is also our setting SENCo and takes leadership on ensuring the needs of our children with additional needs are met, and putting the best package of support as possible in place. Within this role she supports children on an individual basis, but also with small cluster group intervention times where extra support has been identified. Charlotte has worked in both nurseries and in a nannying role, qualified to QTS level, with a PGCE in primary education. She has full and relevant SENCo training, and a variety of CPD courses. She has both paediatric and emergency at work first aid training. She has a huge interest in superhero’s and a fantastic imagination which is very much enjoyed by all the children at Cinder Ash. </p>
-                            <div class="text-center my-2"><button class="btn-primary staff-text">Read More</button></div>
-                        </div>
-                    </div>
-                    <div class="staff-card-lg">
-                        <div class="staff-card-header">
                             <img src="assets/img/staff/melissa.webp" alt="">
                         </div>
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Melissa</p>
                             <p class="staff-card-title text-center">Floor Manager</p>
-                            <p class="staff-card-text">Melissa is our floor manager and joined the setting back in April 2016. Prior to joining us, Melissa has experience working in nursery settings, as well as a specialist provision school. During her time within a specialist provision school. she gained lots of experience working with children with a range of additional needs, using equipment appropriate to their requirements, and supporting them in the most suitable way to gain the full potential from their learning. Melissa has full SENCo training, and initially was in the role of SENCo within the setting, before taking on the deputy manager position. She has completed safeguarding level 2 and inter agency training, alongside both adult and paediatric first aid training. She has a wide and varied range of CPD courses which she has completed, and influence her every day practise within the setting.</p>
+                            <p class="staff-card-text">Melissa is our floor manager and joined the setting back in April 2016. Prior to joining us, Melissa has experience working in nursery settings, as well as a specialist provision school. During her time within a specialist provision school. she gained lots of experience working with children with a range of additional needs, using equipment appropriate to their requirements, and supporting them in the most suitable way to gain the full potential from their learning. Melissa has full SENCo training, and initially was in the role of SENCo within the setting, before taking on the deputy manager position. She has completed safeguarding level 2 and inter agency training, alongside both adult and paediatric first aid training. She has a wide and varied range of CPD courses which she has completed, and influence her every day practice within the setting.</p>
+                            <div class="text-center my-2"><button class="btn-primary staff-text">Read More</button></div>
+                        </div>
+                    </div>
+                    <div class="staff-card-lg">
+                        <div class="staff-card-header">
+                            <img src="assets/img/staff/charlotte.webp" alt="">
+                        </div>
+                        <div class="staff-card-body">
+                            <p class="staff-card-name text-center">Charlotte</p>
+                            <p class="staff-card-title text-center">Deputy Manager &amp; SENCo</p>
+                            <p class="staff-card-text">Charlotte is our deputy manager, taking on the role of manager in the absence of Lucy and Melissa. She is also our setting SENCo and takes leadership on ensuring the needs of our children with additional needs are met, and putting the best package of support as possible in place. Within this role she supports children on an individual basis, but also with small cluster group intervention times where extra support has been identified. Charlotte has worked in both nurseries and in a nannying role, qualified to QTS level, with a PGCE in primary education. She has full and relevant SENCo training, and a variety of CPD courses. She has both paediatric and emergency at work first aid training. She has a huge interest in superhero’s and a fantastic imagination which is very much enjoyed by all the children at Cinder Ash. </p>
                             <div class="text-center my-2"><button class="btn-primary staff-text">Read More</button></div>
                         </div>
                     </div>
