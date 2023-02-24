@@ -127,9 +127,9 @@
             </div>
         </section>
         <section class="img-grid-auto my-4">
-            <img class="border-std" src="assets/img/gallery/play11.webp" alt="">
-            <img class="border-std" src="assets/img/gallery/play4.webp" alt="">
-            <img class="border-std" src="assets/img/gallery/play2.webp" alt="">
+            <img class="border-std" src="assets/img/gallery/play6.webp" alt="">
+            <img class="border-std" src="assets/img/gallery/play18.webp" alt="">
+            <img class="border-std" src="assets/img/gallery/outside2.webp" alt="">
         </section>
     </main>
 
