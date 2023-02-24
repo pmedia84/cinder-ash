@@ -8,7 +8,7 @@
     </div>
 <div class="nav-container">
     <nav class="nav-bar">
-        <div class="nav-brand">
+        <div class="nav-brand" itemprop="image">
             <a href="/"><img src="assets/img/logo/logo.png" alt="" aria-label="Return to home page"></a>
         </div>
         <button class="nav-btn" aria-controls="nav-links" id="nav-btn" type="button" aria-label="Menu" aria-expanded="false">
