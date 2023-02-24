@@ -32,7 +32,14 @@
     <meta property="og:url" content="">
     <meta property="og:type" content="Website">
     <!-- /OG Meta Tags -->
-
+    <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Cinder Ash Nursery and Pre-School",
+      "url" : "https://example.com/"
+    }
+  </script>
 
 
     <!-- Everything above this is for the head element. And is displayed on every web page -->
