@@ -26,15 +26,15 @@
                     </tr>   
                     <tr>
                         <td>Under 2's</td>
-                        <td>&pound;4.75 Per hour</td>
+                        <td>&pound;5.10 Per hour</td>
                     </tr>
                     <tr>
                         <td>2 - 3 Year Old</td>
-                        <td>&pound;4.50 Per hour</td>
+                        <td>&pound;4.75 Per hour</td>
                     </tr>
                     <tr>
                         <td>3 Years and above</td>
-                        <td>&pound;4.25 Per hour</td>
+                        <td>&pound;4.50 Per hour</td>
                     </tr>
                     <tr>
                         <td>EYE Funding</td>

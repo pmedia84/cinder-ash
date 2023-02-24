@@ -37,7 +37,7 @@
       "@context" : "https://schema.org",
       "@type" : "WebSite",
       "name" : "Cinder Ash Nursery and Pre-School",
-      "url" : "https://example.com/"
+      "url" : "https://www.cinderashpreschool.co.uk/"
     }
   </script>
 
