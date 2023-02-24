@@ -67,37 +67,37 @@
                 <div class="img-card">
                     <img src="assets/img/gallery/inside4.webp" alt="">
                     <div class="img-card-caption">
-                        <p>Lorem, ipsum.</p>
+                        <p>Our Snug</p>
                     </div>
                 </div>
                 <div class="img-card">
                     <img src="assets/img/gallery/inside2.webp" alt="">
                     <div class="img-card-caption">
-                        <p>Lorem, ipsum.</p>
+                        <p>Story Corner</p>
                     </div>
                 </div>
                 <div class="img-card">
                     <img src="assets/img/gallery/inside3.webp" alt="">
                     <div class="img-card-caption">
-                        <p>Lorem, ipsum.</p>
+                        <p>Our Snug</p>
                     </div>
                 </div>
                 <div class="img-card">
                     <img src="assets/img/gallery/outside1.webp" alt="">
                     <div class="img-card-caption">
-                        <p>Lorem, ipsum.</p>
+                        <p>Outdoor Garden</p>
                     </div>
                 </div>
                 <div class="img-card">
                     <img src="assets/img/gallery/play1.webp" alt="">
                     <div class="img-card-caption">
-                        <p>Lorem, ipsum.</p>
+                        <p>Learning Through Play</p>
                     </div>
                 </div>
                 <div class="img-card">
                     <img src="assets/img/gallery/play2.webp" alt="">
                     <div class="img-card-caption">
-                        <p>Lorem, ipsum.</p>
+                        <p>Play Time</p>
                     </div>
                 </div>
             </div>
