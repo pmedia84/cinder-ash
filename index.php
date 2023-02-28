@@ -123,17 +123,17 @@
                 </div>
                 <div class="staff-card">
                     <div class="staff-card-header">
-                        <img src="assets/img/staff/charlotte.webp" alt="">
-                    </div>
-                    <p class="staff-card-name text-center" itemprop="employee">Charlotte</p>
-                    <p class="staff-card-title text-center">Deputy Manager &amp; SENCo</p>
-                </div>
-                <div class="staff-card">
-                    <div class="staff-card-header">
                         <img src="assets/img/staff/melissa.webp" alt="">
                     </div>
                     <p class="staff-card-name text-center" itemprop="employee">Melissa</p>
                     <p class="staff-card-title text-center">Floor Manager</p>
+                </div>
+                <div class="staff-card">
+                    <div class="staff-card-header">
+                        <img src="assets/img/staff/charlotte.webp" alt="">
+                    </div>
+                    <p class="staff-card-name text-center" itemprop="employee">Charlotte</p>
+                    <p class="staff-card-title text-center">Deputy Manager &amp; SENCo</p>
                 </div>
             </div>
             <p class="text-center my-3">You can meet all of our team on our staff pages to find out more how they play an important role in running our nursery.</p>

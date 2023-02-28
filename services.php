@@ -17,14 +17,22 @@
         </div>
 
         <section class="container my-4" id="section-one">
-
-            <div class="std-card grid-row-2col">
+            
+            <div class="std-card grid-row-2col my-3">
                 <div class="grid-col">
                     <h2 class="section-title text-center">Under 2's</h2>
                     <p>As much as we are keen to promote an integrated age group approach to our setting, we recognise the quieter time that our under two’s may need, and have a separate area of the room dedicated to them, furnished with soft cosy provision and age appropriate resources. This area is accessible to all; however, children are aware it’s predominantly for our younger children, and ensure it is a calmer area to explore in.</p><br>
                     <p>Keyworkers are at the core of our values, particularly with our under two’s, promoting attachment as a secure base for learning and development. We are currently looking into an enclosed outdoor space, to fully ensure we meet all the needs of our youngest children.</p>
                 </div>
                 <img class="border-std-2" src="assets/img/gallery/play17.webp" alt="">
+            </div>
+            <div class="std-card grid-row-2col my-3">
+                <div class="grid-col">
+                    <h2 class="section-title text-center">2 Year Old's</h2>
+                    <p>For our two year olds we recognise their vivid imaginations, love of exploration and enjoyment of exploring with their senses. With this in mind we plan the environment to ensure there are vast multi sensory invitations to play, with a mixture of resources they are confident and familiar with but also new resources and experiences to challenge their minds and learning. </p><br>
+                    <p>We continue to really focus on that key-worker bond but also developing those peer relationships and friendships. There is lots of emphasis of language and managing feelings as they begin to make sense of the World around them. Our mixed age group environment provides a fantastic opportunity to ensure the environment always meets their needs, and ensures resources and learning opportunities are adaptable and suitable for all children in setting. </p>
+                </div>
+                <img class="border-std-2" src="assets/img/gallery/play20.webp" alt="">
             </div>
             <div class="std-card grid-row-2col my-3">
                 <div class="grid-col">
