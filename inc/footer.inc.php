@@ -99,7 +99,7 @@ $('#request_info').submit(function(event) {
     event.preventDefault(); //prevent form default submit
     //bring in recaptcha scripts and request token
     grecaptcha.ready(function() {
-        grecaptcha.execute('6LdLOSYkAAAAAMhX6ojn3hk-B6v3-NWkLb-YrdB-', {
+        grecaptcha.execute('6LeRdqkkAAAAAHn11l-i3DDK9vgpi10iULGTpMHT', {
             action: 'submit'
         }).then(function(token) {
             var formData = new FormData($("#request_info").get(0));
