@@ -2,6 +2,8 @@
 <html lang="en">
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XEFMTLT8NT"></script>
 <script>
     window.dataLayer = window.dataLayer || [];
 
@@ -41,8 +43,7 @@
   <meta property="og:url" content="">
   <meta property="og:type" content="Website">
   <!-- /OG Meta Tags -->
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XEFMTLT8NT"></script>
+
 
 
 

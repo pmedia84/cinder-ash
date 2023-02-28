@@ -1,4 +1,5 @@
 <?php
+
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
@@ -8,24 +9,24 @@ require $_SERVER['DOCUMENT_ROOT'] . '/mailer/SMTP.php';
 require $_SERVER['DOCUMENT_ROOT'] . '/mailer/Exception.php';
 /// Define who the emails get sent to from forms filled out
 include("../email_settings.php");
-$response="";
-if (isset($_POST['token']) && $_POST['token'] >NULL){
-   //Recaptcha security test
-   $site_key = '6LeRdqkkAAAAAHn11l-i3DDK9vgpi10iULGTpMHT'; //site key from recaptcha admin
-   $secret_key = '6LeRdqkkAAAAADPOqG_qKv0GgReqhRMgBi9RzTl3';//secret key from recaptcha admin file
-    
-   $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret_key.'&response='.$_POST['token']);//verify the response with the token generated from the user inout
+$response = "";
+if (isset($_POST['token']) && $_POST['token'] > NULL) {
+    //Recaptcha security test
+    $site_key = '6LeRdqkkAAAAAHn11l-i3DDK9vgpi10iULGTpMHT'; //site key from recaptcha admin
+    $secret_key = '6LeRdqkkAAAAADPOqG_qKv0GgReqhRMgBi9RzTl3'; //secret key from recaptcha admin file
 
-$verify_data = json_decode($verifyResponse, true);//decode the JSON file received from google
-$score = $verify_data['score'];//identify the score
-//if the score is above 0.7 then process the contact form
+    $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret=' . $secret_key . '&response=' . $_POST['token']); //verify the response with the token generated from the user inout
 
-if($score>=0.7){
-    //set up variables
-    $visitor_email = filter_var($_POST['visitor_email'], FILTER_SANITIZE_EMAIL);
-    $visitor_phone = filter_var($_POST['visitor_phone'], FILTER_SANITIZE_SPECIAL_CHARS);
-    $visitor_name = filter_var($_POST['visitor_name'], FILTER_SANITIZE_SPECIAL_CHARS);
-    $visitor_message = filter_var($_POST['visitor_message'], FILTER_SANITIZE_SPECIAL_CHARS);
+    $verify_data = json_decode($verifyResponse, true); //decode the JSON file received from google
+    $score = $verify_data['score']; //identify the score
+    //if the score is above 0.7 then process the contact form
+
+    if ($score >= 0.7) {
+        //set up variables
+        $visitor_email = filter_var($_POST['visitor_email'], FILTER_SANITIZE_EMAIL);
+        $visitor_phone = filter_var($_POST['visitor_phone'], FILTER_SANITIZE_SPECIAL_CHARS);
+        $visitor_name = filter_var($_POST['visitor_name'], FILTER_SANITIZE_SPECIAL_CHARS);
+        $visitor_message = filter_var($_POST['visitor_message'], FILTER_SANITIZE_SPECIAL_CHARS);
         // Email address verification.
         function isEmail($email)
         {
@@ -35,7 +36,7 @@ if($score>=0.7){
         if (trim($visitor_name) == '') { // name
             echo '<div id="response"></div><div class="form-response error">You must enter your name. Please try again.</div>';
             exit();
-        }else if (!isEmail($visitor_email)) {
+        } else if (!isEmail($visitor_email)) {
             echo '<div id="response"></div><div class="form-response error">Invalid email address. Please try again.</div><br>';
             exit();
         } else if (trim($visitor_phone) == '') {
@@ -43,28 +44,28 @@ if($score>=0.7){
             exit();
         }
 
-/////////////////////////////////////////////////////////Send Emails /////////////////////////////////////////////////////////////////
-    //configure email to send to admins
-   // stored in seperate file
-    //From Server
-    $fromserver    = $username;
+        /////////////////////////////////////////////////////////Send Emails /////////////////////////////////////////////////////////////////
+        //configure email to send to admins
+        // stored in seperate file
+        //From Server
+        $fromserver    = $username;
 
 
-    ///////////////////Admins auto reply/////////////////////////
+        ///////////////////Admins auto reply/////////////////////////
         //email subject
-        $subject = $visitor_name .' has contacted you from your website';
+        $subject = $visitor_name . ' has contacted you from your website';
 
 
         //body of email for website admins
         $body = '<div style="background-color:#a67d6e; padding:16px;font-family:sans-serif;">
-            <h1 style="text-align:center; color:white;">' . $visitor_name .' has contaced you.</h1>
+            <h1 style="text-align:center; color:white;">' . $visitor_name . ' has contaced you.</h1>
             <div style="background-color: white; padding:16px; border: 10px solid #F2F2F2; border-radius: 10px;">
                 <h2>Message Details:</h2>
-                <p style="border-bottom:1px solid;"><strong>Name</strong>: ' . $visitor_name.' </p>
+                <p style="border-bottom:1px solid;"><strong>Name</strong>: ' . $visitor_name . ' </p>
                 <p style="border-bottom:1px solid;"><strong>Email</strong>: ' . $visitor_email . ' </p>
                 <p style="border-bottom:1px solid;"><strong>Phone No</strong>.: ' . $visitor_phone . ' </p>
                 <p style="border-bottom:1px solid;"><strong>Message:</strong></p>
-                <p style="border-bottom:1px solid;">'.$visitor_message.'</p>
+                <p style="border-bottom:1px solid;">' . $visitor_message . '</p>
 
             </div>
         </div>';
@@ -88,21 +89,14 @@ if($score>=0.7){
         if (!$mail->Send()) {
             echo "Mailer Error: " . $mail->ErrorInfo;
         } else {
-            $response="<div class='form-response'><p>Thank you <strong>$visitor_name</strong>, for requesting a quotation from us.<br>We will be in touch with you very soon! </p></div>"; 
+            $response = "<div class='form-response'><p>Thank you <strong>$visitor_name</strong>, for requesting a quotation from us.<br>We will be in touch with you very soon! </p></div>";
+        }
+    } else { //if the score fails, exit the script and send back an error
+        $response = '<div class="form-response error"><p>Security check failed</p></div>';
+        echo $response;
+        exit();
     }
-
-
-
-
-
-
-}else{//if the score fails, exit the script and send back an error
-    $response = '<div class="form-response error"><p>Security check failed</p></div>';
-    echo $response;
-    exit();
-}
-
-}else{
+} else {
     $response = '<div class="form-response error"><p>Security check failed</p></div>';
     echo $response;
     exit();
