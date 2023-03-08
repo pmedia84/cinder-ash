@@ -123,6 +123,17 @@
                             <div class="text-center my-2"><button class="btn-primary staff-text">Read More</button></div>
                         </div>
                     </div>
+                    <div class="staff-card-lg">
+                        <div class="staff-card-header">
+                            <img src="assets/img/staff/grace.webp" alt="">
+                        </div>
+                        <div class="staff-card-body">
+                            <p class="staff-card-name text-center">Grace</p>
+                            <p class="staff-card-title text-center">Early Years Practitioner</p>
+                            <p class="staff-card-text">Grace joined the team initially in January 2019 as a level 2 apprentice, before continuing with us as a qualified member of staff. Grace is very calm and caring, and does a fantastic  job at settling children who may be finding the transition to nursery difficult, alongside supporting our two year olds in particular as they begin to develop independence and make understanding of the world around them. Grace holds all relevant safeguarding qualifications and also her paediatric first aid.</p>
+                            <div class="text-center my-2"><button class="btn-primary staff-text">Read More</button></div>
+                        </div>
+                    </div>
                 </div>
                 <p class="text-center my-2">All our practitioners have completed level 1 makaton training with intentions to continue this training onto level 2.</p>
             </div>
