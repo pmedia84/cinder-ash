@@ -1,6 +1,7 @@
 <?php include("inc/header.inc.php"); ?>
 <meta name="description" content="Cinder Ash - Important dates and Term Dates for our nursery.">
 <!-- Page specific information and scripts -->
+<link rel="canonical" href="https://<?= $_SERVER['SERVER_NAME']; ?>/updates">
 <title>Nursery and pre school in Long Sutton - Cinder Ash - Term dates</title>
 
 </head>

@@ -1,6 +1,7 @@
 <?php include("inc/header.inc.php"); ?>
 <meta name="description" content="Cinder Ash - Our Committee, Cinder Ash is a committee run setting, find out more about this here.">
 <!-- Page specific information and scripts -->
+<link rel="canonical" href="https://<?= $_SERVER['SERVER_NAME']; ?>/committee">
 <title>Cinder Ash - Nursery and pre school in Long Sutton - Committee</title>
 </head>
 <body itemscope itemtype="https://schema.org/ChildCare">

@@ -1,5 +1,6 @@
 <?php include("inc/header.inc.php"); ?>
 <!-- Page specific information and scripts -->
+<link rel="canonical" href="https://<?= $_SERVER['SERVER_NAME']; ?>/contact">
 <title>Cinder Ash - Nursery and pre school in Long Sutton - Contact Us</title>
 
 </head>

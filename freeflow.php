@@ -1,6 +1,7 @@
 <?php include("inc/header.inc.php"); ?>
 <meta name="description" content="Cinder Ash - Whatever the weather, we are keen to promote free flow learning.">
 <!-- Page specific information and scripts -->
+<link rel="canonical" href="https://<?= $_SERVER['SERVER_NAME']; ?>/freeflow">
 <title>Cinder Ash - Nursery and pre school in Long Sutton - Freeflow</title>
 
 </head>
