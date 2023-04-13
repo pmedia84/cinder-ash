@@ -1,7 +1,7 @@
 <?php include("inc/header.inc.php"); ?>
 <meta name="description" content="Cinder Ash - Nursery in Long Sutton, We are a mixed age group setting, taking children from six weeks through to pre-school, with a focus on free flow learning">
 <!-- Page specific information and scripts -->
-<link rel="canonical" href="https://<?= $_SERVER['SERVER_NAME']; ?>/">
+<link rel="canonical" href="https://www.<?= $_SERVER['SERVER_NAME']; ?>/">
 <title>Nursery and pre school in Long Sutton - Cinder Ash</title>
 
 <!-- Slider -->

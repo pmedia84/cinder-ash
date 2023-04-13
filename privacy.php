@@ -3,18 +3,15 @@ $emailaddress = "cinderashpre-school@hotmail.co.uk";
 ?>
 <meta name="description" content="Cinder Ash - Our privacy and cookie policy.">
 <!-- Page specific information and scripts -->
-<link rel="canonical" href="https://<?= $_SERVER['SERVER_NAME']; ?>/privacy">
+<link rel="canonical" href="https://www.<?= $_SERVER['SERVER_NAME']; ?>/privacy">
 <title>Cinder Ash - Nursery and pre school in Long Sutton - Privacy Policy</title>
-
 </head>
-
 <body itemscope itemtype="https://schema.org/ChildCare">
     <?php include("inc/nav.inc.php"); ?>
     <main>
         <div class="hero about-hero">
             <div class="hero-container">
                 <h1 class="hero-title">Privacy Policy</h1>
-
             </div>
         </div>
         <section class="container my-3" id="section-one">

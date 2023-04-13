@@ -1,7 +1,7 @@
 <?php include("inc/header.inc.php"); ?>
 <meta name="description" content="Cinder Ash - Download our policy documents">
 <!-- Page specific information and scripts -->
-<link rel="canonical" href="https://<?= $_SERVER['SERVER_NAME']; ?>/policies">
+<link rel="canonical" href="https://www.<?= $_SERVER['SERVER_NAME']; ?>/policies">
 <title>Cinder Ash - Nursery and pre school in Long Sutton - Our Policies</title>
 
 </head>
