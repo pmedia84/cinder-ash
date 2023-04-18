@@ -39,7 +39,7 @@
   <!-- OG Meta Tags -->
   <meta property="og:title" content="Cinder Ash">
   <meta property="og:description" content="Nursery and Pre-School in Long Sutton">
-  <meta property="og:image" content="assets/img/og-data/og-img.png">
+  <meta property="og:image" content="www.cinderashpreschool.co.uk/assets/img/og-data/og-img.png">
   <meta property="og:url" content="">
   <meta property="og:type" content="Website">
   <!-- /OG Meta Tags -->
