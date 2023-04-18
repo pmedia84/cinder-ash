@@ -1,7 +1,7 @@
 <?php include("inc/header.inc.php"); ?>
 <meta name="description" content="Cinder Ash - Find out about us and how we run our Nursery, giving your child teh nest start they can">
 <!-- Page specific information and scripts -->
-<link rel="canonical" href="https://www.<?= $_SERVER['SERVER_NAME']; ?>/about">
+<link rel="canonical" href="https://www.cinderashpreschool.co.uk/about">
 <title>Cinder Ash - Nursery and pre school in Long Sutton - About Us</title>
 
 </head>

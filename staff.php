@@ -1,7 +1,7 @@
 <?php include("inc/header.inc.php"); ?>
 <meta name="description" content="Cinder Ash - Meet all the team that run our nursery.">
 <!-- Page specific information and scripts -->
-<link rel="canonical" href="https://www.<?= $_SERVER['SERVER_NAME']; ?>/staff">
+<link rel="canonical" href="https://www.cinderashpreschool.co.uk/staff">
 <title>Cinder Ash - Nursery and pre school in Long Sutton - Meet Our Team</title>
 
 </head>

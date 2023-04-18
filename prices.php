@@ -1,7 +1,7 @@
 <?php include("inc/header.inc.php"); ?>
 <meta name="description" content="Nursery and Pre School in Long Sutton - Cinder Ash - Our current fees">
 <!-- Page specific information and scripts -->
-<link rel="canonical" href="https://www.<?= $_SERVER['SERVER_NAME']; ?>/prices">
+<link rel="canonical" href="https://www.cinderashpreschool.co.uk/prices">
 <title>Nursery and pre school in Long Sutton - Cinder Ash - Our Current Fees</title>
 
 </head>
