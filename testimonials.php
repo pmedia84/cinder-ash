@@ -82,7 +82,7 @@
             <div class="std-card my-3">
                 <h2 class="text-center">Parent Partnership</h2>
                 <p>Partnership with parents is at the core of our values, and we strongly promote this within the setting. Through working together we feel children are given the best possible opportunities to thrive, and reach their full potential. </p><br>
-                <p>We offer an open door policy, where parents are welcome topop in at any time, no appointment required. We welcome any feedback from parents, and view this as an extremely valuable tool for reviewing and imporving our practise.</p>
+                <p>We offer an open door policy, where parents are welcome to pop in at any time, no appointment required. We welcome any feedback from parents, and view this as an extremely valuable tool for reviewing and improving our practise.</p>
             </div>
         </section>
     </main>

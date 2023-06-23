@@ -23,7 +23,7 @@
                 <div class="grid-row-3col my-2">
                     <div class="staff-card-lg">
                         <div class="staff-card-header">
-                            <img src="assets/img/staff/lucy.webp" alt="">
+                            <img src="assets/img/staff/lucy.webp" alt="Lucy Cooper - Staff member at Cinder Ash Pre School">
                         </div>
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Lucy Cooper</p>
@@ -34,7 +34,7 @@
                     </div>
                     <div class="staff-card-lg">
                         <div class="staff-card-header">
-                            <img src="assets/img/staff/melissa.webp" alt="">
+                            <img src="assets/img/staff/melissa.webp" alt="Melissa - Staff member at Cinder Ash Pre School">
                         </div>
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Melissa</p>
@@ -45,7 +45,7 @@
                     </div>
                     <div class="staff-card-lg">
                         <div class="staff-card-header">
-                            <img src="assets/img/staff/charlotte.webp" alt="">
+                            <img src="assets/img/staff/charlotte.webp" alt="Charlotte - Staff member at Cinder Ash Pre School">
                         </div>
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Charlotte</p>
@@ -58,7 +58,7 @@
                 <div class="grid-row-3col">
                     <div class="staff-card-lg">
                         <div class="staff-card-header">
-                            <img src="assets/img/staff/amy.webp" alt="">
+                            <img src="assets/img/staff/amy.webp" alt="Amy - Staff member at Cinder Ash Pre School">
                         </div>
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Amy</p>
@@ -69,7 +69,7 @@
                     </div>
                     <div class="staff-card-lg">
                         <div class="staff-card-header">
-                            <img src="assets/img/staff/beth.webp" alt="">
+                            <img src="assets/img/staff/beth.webp" alt="Beth - Staff member at Cinder Ash Pre School">
                         </div>
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Beth</p>
@@ -80,7 +80,7 @@
                     </div>
                     <div class="staff-card-lg">
                         <div class="staff-card-header">
-                            <img src="assets/img/staff/laura.webp" alt="">
+                            <img src="assets/img/staff/laura.webp" alt="Laura - Staff member at Cinder Ash Pre School">
                         </div>
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Laura</p>
@@ -93,7 +93,7 @@
                 <div class="grid-row-3col">
                 <div class="staff-card-lg">
                         <div class="staff-card-header">
-                            <img src="assets/img/staff/jack.webp" alt="">
+                            <img src="assets/img/staff/jack.webp" alt="Jack - Staff member at Cinder Ash Pre School">
                         </div>
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Jack</p>
@@ -104,7 +104,7 @@
                     </div>
                     <div class="staff-card-lg">
                         <div class="staff-card-header">
-                            <img src="assets/img/staff/chloe.webp" alt="">
+                            <img src="assets/img/staff/chloe.webp" alt="Chloe - Staff member at Cinder Ash Pre School">
                         </div>
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Chloe</p>
@@ -115,7 +115,7 @@
                     </div>
                     <div class="staff-card-lg">
                         <div class="staff-card-header">
-                            <img src="assets/img/staff/suzanne.webp" alt="">
+                            <img src="assets/img/staff/suzanne.webp" alt="Suzanne - Staff member at Cinder Ash Pre School">
                         </div>
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Suzanne</p>
@@ -126,7 +126,7 @@
                     </div>
                     <div class="staff-card-lg">
                         <div class="staff-card-header">
-                            <img src="assets/img/staff/grace.webp" alt="">
+                            <img src="assets/img/staff/grace.webp" alt="Grace - Staff member at Cinder Ash Pre School">
                         </div>
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Grace</p>

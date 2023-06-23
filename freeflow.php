@@ -24,17 +24,14 @@
                     <div class="grid-col">
                         <h2>Free Flow</h2>
                         <p>Whatever the weather, we are keen to promote free flow learning, giving children the opportunity to choose whether they would like to be inside or outside, where provision covering all aspects of the Early Years Foundation Stage curriculum is available in both. </p><br>
-                        <p>Not only do we feel this is very beneficial for learning but for health also. We are strong believers in there being no inappropriate weather, just innapropriate clothing.</p>
+                        <p>Not only do we feel this is very beneficial for learning but for health also. We are strong believers in there being no inappropriate weather, just inappropriate clothing.</p>
                     </div>
                     <div class="grid-col">
-                        <img src="assets/img/gallery/play12.webp" alt="" class="border-std-2">
-
+                        <img src="assets/img/gallery/play12.webp" alt="Playing at Cinder Ash Pre School" class="border-std-2">
                     </div>
-
                 </div>
                 <h2 class="my-3">Benefits of outdoor learning</h2>
                 <div class="grid-row-3col">
-
                     <div class="feature-card">
                         <div class="feature-card-icon">
                             <i class="fa-solid fa-person-walking"></i>
@@ -87,7 +84,6 @@
                             </div>
                         </div>
                     </div>
-
                     <div class="feature-card">
                         <div class="feature-card-icon">
                             <i class="fa-solid fa-heart"></i>
@@ -110,7 +106,7 @@
                         <p>We feel it is good to use lots of our energy to promote healthier lifestyles, and ensure all of the children are accessing appropriate physical activity daily.</p>
                     </div>
                     <div class="grid-col">
-                        <img src="assets/img/gallery/play14.webp" alt="" class="border-std-2">
+                        <img src="assets/img/gallery/play14.webp" alt="Playing at Cinder Ash Pre School" class="border-std-2">
                     </div>
                 </div>
 
@@ -121,16 +117,16 @@
                     </div>
                     <div class="grid-col">
                         <h2>Healthy Lunch Options</h2>
-                        <p>As much as possible we are keen to promote healthy choices within ourlunchboxes, ensuring the childen are gaining adequate amount of bothmacronutrients and micronutrients within their lunches. We use circle time as an opporutnity to discuss healthy ideas, and the benefits of making healthy choices.There is a variety of ideas for lunchboxes avalaible within the entrance, or a member of staff will be able to providefurther assistance.</p>
+                        <p>As much as possible we are keen to promote healthy choices within our lunch boxes, ensuring the children are gaining adequate amount of both macronutrients and micronutrients within their lunches. We use circle time as an opportunity to discuss healthy ideas, and the benefits of making healthy choices.There is a variety of ideas for lunchboxes available within the entrance, or a member of staff will be able to provide further assistance.</p>
                     </div>
                 </div>
 
             </div>
         </section>
         <section class="img-grid-auto my-4">
-            <img class="border-std" src="assets/img/gallery/play6.webp" alt="">
-            <img class="border-std" src="assets/img/gallery/play18.webp" alt="">
-            <img class="border-std" src="assets/img/gallery/outside2.webp" alt="">
+            <img class="border-std" src="assets/img/gallery/play6.webp" alt="Playing at Cinder Ash Pre School">
+            <img class="border-std" src="assets/img/gallery/play18.webp" alt="Playing at Cinder Ash Pre School">
+            <img class="border-std" src="assets/img/gallery/outside2.webp" alt="Playing at Cinder Ash Pre School">
         </section>
     </main>
 

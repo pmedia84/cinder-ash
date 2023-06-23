@@ -4,6 +4,7 @@
 <link rel="canonical" href="https://www.cinderashpreschool.co.uk/updates">
 <title>Nursery and pre school in Long Sutton - Cinder Ash - Term dates</title>
 </head>
+
 <body itemscope itemtype="https://schema.org/ChildCare">
     <?php include("inc/nav.inc.php"); ?>
     <main>
