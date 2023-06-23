@@ -50,7 +50,6 @@
                 </div>
             </div>
         </section>
-
         <section class="container my-5 grid-row-2col">
             <div class="grid-col">
                 <h2>About us</h2>
