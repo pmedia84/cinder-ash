@@ -1,7 +1,7 @@
 <footer>
     <div class="container footer-container">
         <div class="footer-col footer-address" itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
-            <img src="assets/img/logo/logo.png" alt="">
+            <img src="assets/img/logo/logo.png" alt="Cinder Ash Pre School Logo">
             <p itemprop="streetAddress">The Pavilion, Park Road</p>
             <p><span itemprop="addressLocality">Long Sutton</span>, <span itemprop="addressRegion">Spalding</span></p>
             <p itemprop="postalCode">PE12 9DJ</p>
