@@ -2,7 +2,7 @@
 <!-- Page specific information and scripts -->
 <link rel="canonical" href="https://www.cinderashpreschool.co.uk/contact">
 <title>Cinder Ash - Nursery and pre school in Long Sutton - Contact Us</title>
-
+<meta name="description" content="Get in touch with the team at Cinder Ash Pre School. You can reach out via email or fill out our contact form.">
 </head>
 
 <body itemscope itemtype="https://schema.org/ChildCare">

@@ -2,7 +2,7 @@
 <meta name="description" content="Cinder Ash - Discover what other parents are having to say about our nursery.">
 <!-- Page specific information and scripts -->
 <link rel="canonical" href="https://www.cinderashpreschool.co.uk/testimonials">
-<title>Cinder Ash - Nursery and pre school in Long Sutton - Hear what our users have to say</title>
+<title>Cinder Ash - Nursery and pre school in Long Sutton - Testimonials</title>
 
 </head>
 
