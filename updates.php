@@ -20,84 +20,93 @@
             <h2 class="section-title text-center">Updates</h2>
             <div class="std-card">
                 <h3 class="text-center ">Term dates</h3>
-                <p class="text-center">Upcoming term dates for 2022 / 2023</p>
+                <p class="text-center">Upcoming term dates for 2023 / 2024</p>
                 <table class="term-dates my-2">
                     <tr>
-                        <th class="vert-heading" rowspan="7">Autumn Term 2022</th>
+                        <th class="vert-heading" rowspan="9">Autumn Term 2023</th>
                     </tr>
                     <tr>
                         <th class="subheading">Term 1</th>
                     </tr>
-                    <td>Tuesday 6<span class="super">th</span> September to Friday 21<span class="super">st</span> October</td>
+                    <td>Wednesday 6<span class="super">th</span> September to Friday 20<span class="super">th</span> October</td>
                     </tr>
+                    <tr>
+                        <th class="subheading">Half Term Holiday</th>
+                    </tr>
+                    </tr>
+                    <tr>
+                        <td>Saturday 21<span class="super">st</span> October to Monday 30<span class="super">th</span> October</td>
+                    </tr>
+                   
                     <tr>
                         <th class="subheading">Term 2</th>
                     </tr>
                     <tr>
-                        <td>Monday 31<span class="super">st</span> October to Friday 16<span class="super">th</span></td>
+                        <td>Tuesday 31<span class="super">st</span> October to Wednesday 20<span class="super">th</span> December</td>
                     </tr>
                     <tr>
-                        <th class="subheading">Bank Holidays</th>
+                        <th class="subheading">Christmas Holiday</th>
                     </tr>
                     <tr class="last">
-                        <td>Monday 26<span class="super">th</span> December &amp; Tuesday 27<span class="super">th </span>December</td>
+                        <td>Thursday 21<span class="super">st</span> December to Tuesday 2<span class="super">nd </span>January</td>
                     </tr>
 
-                    <th class="vert-heading" rowspan="7">Spring Term 2023</th>
+                    <th class="vert-heading" rowspan="9">Spring Term 2024</th>
 
                     <tr>
                         <th class="subheading">Term 3</th>
                     </tr>
                     <tr>
-                        <td>Wednesday 4<span class="super">th</span> January to Friday 10<span class="super">th</span> February</td>
+                        <td>Wednesday 3<span class="super">rd</span> January to Friday 9<span class="super">th</span> February</td>
                     </tr>
+                    <tr>
+                        <th class="subheading">Half Term Holiday</th>
+                    </tr>
+                    <tr>
+                        <td>Saturday 10<span class="super">th</span> February to Sunday 18<span class="super">th</span> February</td>
+                    </tr>
+                   
                     <tr>
                         <th class="subheading">Term 4</th>
                     </tr>
                     <tr>
-                        <td>Monday 20<span class="super">th</span> February to Friday 31<span class="super">st</span> March</td>
+                        <td>Monday 19<span class="super">th</span> February to Thursday 28<span class="super">th</span> March</td>
                     </tr>
                     <tr>
-                        <th class="subheading">Bank Holidays</th>
+                        <th class="subheading">Easter Holiday</th>
                     </tr>
                     <tr class="last">
-                        <td>Monday 2<span class="super">nd</span> January, Friday 7<span class="super">th</span> April & Monday 10<span class="super">th</span> April</td>
+                        <td>Friday 29<span class="super">th</span> March to Monday 15<span class="super">th</span> April </td>
                     </tr>
                     <tr>
-                        <th class="vert-heading" rowspan="7">Summer Term 2023</th>
+                        <th class="vert-heading" rowspan="9">Summer Term 2024</th>
                     </tr>
                     <tr>
                         <th class="subheading">Term 5</th>
                     </tr>
                     <tr>
-                        <td>Tuesday 18<span class="super">th</span> April to Friday 26<span class="super">th</span> May</td>
+                        <td>Tuesday 16<span class="super">th</span> April to Friday 24<span class="super">th</span> May</td>
+                    </tr>
+                    <tr>
+                        <th class="subheading">Half Term Holiday</th>
+                    </tr>
+                    <tr>
+                        <td>Saturday 25<span class="super">th</span> May to Sunday 2<span class="super">nd</span> June</td>
                     </tr>
                     <tr>
                         <th class="subheading">Term 6</th>
                     </tr>
                     <tr>
-                        <td>Monday 5<span class="super">th</span> June to Friday 21<span class="super">st</span> July</td>
+                        <td>Monday 3<span class="super">rd</span> June to Friday 19<span class="super">th</span> July</td>
                     </tr>
                     <tr>
-                        <th class="subheading">Bank Holidays</th>
+                        <th class="subheading">Summer Holiday</th>
                     </tr>
                     <tr class="last">
-                        <td>Monday 1<span class="super">st</span> May, Monday 29<span class="super">th</span> May &amp; Monday 28<span class="super">th</span> August</td>
+                    <td>Saturday 20<span class="super">th</span> July to Tuesday 3<span class="super">rd</span> September</td>
                     </tr>
                 </table>
 
-                <h3 class="text-center ">Important dates</h3>
-                <p class="text-center mb-2">Here are some important dates coming up this year. Keep these in mind for future reference.</p>
-                <table class="std-table">
-                    <tr class="table-head">
-                        <th>Date</th>
-                        <th>Details</th>
-                    </tr>
-                    <tr>
-                        <td>2<span class="super">nd</span> March</td>
-                        <td>World Book Day</td>
-                    </tr>
-                </table>
 
             </div>
 
