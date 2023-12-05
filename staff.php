@@ -58,12 +58,12 @@
                 <div class="grid-row-3col">
                     <div class="staff-card-lg">
                         <div class="staff-card-header">
-                            <img src="assets/img/staff/amy.webp" alt="Amy - Staff member at Cinder Ash Pre School">
+                            <img src="assets/img/staff/lizzie.webp" alt="Lizzie - Staff member at Cinder Ash Pre School">
                         </div>
                         <div class="staff-card-body">
-                            <p class="staff-card-name text-center">Amy</p>
-                            <p class="staff-card-title text-center">Early Years Practitioner</p>
-                            <p class="staff-card-text">Amy joined us here at Cinder Ash in March 2020. She has a BA(hons) degree in a and youth studies, alongside her NNEB qualification. Amy has worked previously as a childminder and also within a variety of nurseries and also a primary school. Amy is working alongside Charlotte as our SENCo, and is currently completing her SENCo training to provide further support in this field. She holds paediatric first aid and relevant safeguarding training. She is proactive in supporting outdoor learning and ensuring learning opportunities are accessible to all. </p>
+                            <p class="staff-card-name text-center">Lizzie</p>
+                            <p class="staff-card-title text-center">Level 3 Apprentice</p>
+                            <p class="staff-card-text">Lizzie is our level 3 apprentice, joining us in August 2023. She was with us as a student whilst completing level 2 qualification at college, and then joined the team as a staff member ready to complete her level 3 qualification. She has already built some lovely bonds with the children, and has fully embedded herself into life here at Cinder Ash. </p>
                             <div class="text-center my-2"><button class="btn-primary staff-text">Read More</button></div>
                         </div>
                     </div>
@@ -98,7 +98,7 @@
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Jack</p>
                             <p class="staff-card-title text-center">Early Years Practitioner</p>
-                            <p class="staff-card-text">Jack is our newest member of the team joining us in May 2022 , having previously been with us on his student placements whilst at college. The children are thriving with his love of the outdoors- whatever the weather! Jack has completed his paediatric first aid and all relevant safeguarding qualifications. </p>
+                            <p class="staff-card-text">Jack joined us in May 2022 , having previously been with us on his student placements whilst at college. The children are thriving with his love of the outdoors- whatever the weather! Jack has completed his paediatric first aid and all relevant safeguarding qualifications. </p>
                             <div class="text-center my-2"><button class="btn-primary staff-text">Read More</button></div>
                         </div>
                     </div>
@@ -132,6 +132,17 @@
                             <p class="staff-card-name text-center">Grace</p>
                             <p class="staff-card-title text-center">Early Years Practitioner</p>
                             <p class="staff-card-text">Grace joined the team initially in January 2019 as a level 2 apprentice, before continuing with us as a qualified member of staff. Grace is very calm and caring, and does a fantastic  job at settling children who may be finding the transition to nursery difficult, alongside supporting our two year olds in particular as they begin to develop independence and make understanding of the world around them. Grace holds all relevant safeguarding qualifications and also her paediatric first aid.</p>
+                            <div class="text-center my-2"><button class="btn-primary staff-text">Read More</button></div>
+                        </div>
+                    </div>
+                    <div class="staff-card-lg">
+                        <div class="staff-card-header">
+                            <img src="assets/img/staff/lauren.webp" alt="Lauren - Staff member at Cinder Ash Pre School">
+                        </div>
+                        <div class="staff-card-body">
+                            <p class="staff-card-name text-center">Lauren </p>
+                            <p class="staff-card-title text-center">Level 2 Apprentice</p>
+                            <p class="staff-card-text">Lauren is our level 2 apprentice, joining us in September 2023. She has a very caring and calm nature, and spends a lot of time with our youngest members of the nursery. Lauren has completed a range of safeguarding courses and will be completing her paediatric first aid this year alongside her qualification. </p>
                             <div class="text-center my-2"><button class="btn-primary staff-text">Read More</button></div>
                         </div>
                     </div>
