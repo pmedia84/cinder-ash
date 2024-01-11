@@ -146,6 +146,17 @@
                             <div class="text-center my-2"><button class="btn-primary staff-text">Read More</button></div>
                         </div>
                     </div>
+                    <div class="staff-card-lg">
+                        <div class="staff-card-header">
+                            <img src="assets/img/staff/chelsey.webp" alt="Chelsey - Staff member at Cinder Ash Pre School">
+                        </div>
+                        <div class="staff-card-body">
+                            <p class="staff-card-name text-center">Chelsey </p>
+                            <p class="staff-card-title text-center">Level 5 Practitioner</p>
+                            <p class="staff-card-text">Chelsey joined the team in January 2024, as a level 5 qualified member of staff. Charlotte has lots of experience working within early years, particularly with the preschool age group. She has completed forest school training, to really promote the outdoor learning and play. Chelsey has also completed all relevant safeguarding training, as well as her paediatric first aid. </p>
+                            <div class="text-center my-2"><button class="btn-primary staff-text">Read More</button></div>
+                        </div>
+                    </div>
                 </div>
                 <p class="text-center my-2">All our practitioners have completed level 1 makaton training with intentions to continue this training onto level 2.</p>
             </div>
