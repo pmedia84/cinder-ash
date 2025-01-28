@@ -141,8 +141,8 @@
                         </div>
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Lauren </p>
-                            <p class="staff-card-title text-center">Level 2 Apprentice</p>
-                            <p class="staff-card-text">Lauren is our level 2 apprentice, joining us in September 2023. She has a very caring and calm nature, and spends a lot of time with our youngest members of the nursery. Lauren has completed a range of safeguarding courses and will be completing her paediatric first aid this year alongside her qualification. </p>
+                            <p class="staff-card-title text-center">Level 2 Practitioner (Level 3 Apprentice)</p>
+                            <p class="staff-card-text">Lauren is our level 3 apprentice, joining us in September 2023. She has a very caring and calm nature, and spends a lot of time with our youngest members of the nursery. Lauren has completed a range of safeguarding courses and will be completing her paediatric first aid this year alongside her qualification. </p>
                             <div class="text-center my-2"><button class="btn-primary staff-text">Read More</button></div>
                         </div>
                     </div>

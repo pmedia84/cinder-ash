@@ -87,15 +87,15 @@
                     </div>
                 </div>
                 <div class="img-card">
-                    <img src="assets/img/gallery/play1.webp" alt="Mixed play at Cinder Ash Pre School">
+                    <img src="assets/img/gallery/inside7.webp" alt="Mixed play at Cinder Ash Pre School">
                     <div class="img-card-caption">
                         <p>Learning Through Play</p>
                     </div>
                 </div>
                 <div class="img-card">
-                    <img src="assets/img/gallery/play2.webp" alt="Playing at Cinder Ash Pre School">
+                    <img src="assets/img/gallery/play-jan25.webp" alt="Story time at Cinder Ash Pre School">
                     <div class="img-card-caption">
-                        <p>Play Time</p>
+                        <p>Story Time</p>
                     </div>
                 </div>
             </div>
@@ -105,7 +105,7 @@
                 <h2 class="text-center">Our Curriculum</h2>
                 <div class="grid-row-2col">
                     <p>Our curriculum is made up of the development matters and birth to five documents. Using both tools helps us to consider and support all round development for your children. We provide a free flow setting, providing opportunities for all of our children to flourish within their own learning, and a highly skilled staff team to scaffold and challenge individual learning. Planned activities and invitations to play are brought to life within our mixed age environment to support and enhance our children’s learning, based on our children’s current interests. </p>
-                    <img class="border-std-2" src="assets/img/gallery/play16.webp" width="500" alt="Curriculum play is made up of birth to five years">
+                    <img class="border-std-2" src="assets/img/gallery/play-2-jan25.webp" width="500" alt="Curriculum play is made up of birth to five years">
                 </div>
             </div>
         </section>
@@ -152,6 +152,10 @@
             <div class="slide"><img src="assets/img/gallery/play8.webp" alt="Playing at Cinder Ash Pre School"></div>
             <div class="slide"><img src="assets/img/gallery/play9.webp" alt="Playing at Cinder Ash Pre School"></div>
             <div class="slide"><img src="assets/img/gallery/play10.webp" alt="Playing at Cinder Ash Pre School"></div>
+            <div class="slide"><img src="assets/img/gallery/play-2-jan25.webp" alt="Playing at Cinder Ash Pre School"></div>
+            <div class="slide"><img src="assets/img/gallery/play-3-jan25.webp" alt="Playing at Cinder Ash Pre School"></div>
+            <div class="slide"><img src="assets/img/gallery/play-4-jan25.webp" alt="Playing at Cinder Ash Pre School"></div>
+            <div class="slide"><img src="assets/img/gallery/play-jan25.webp" alt="Playing at Cinder Ash Pre School"></div>
 
         </section>
         <section class="">
