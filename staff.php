@@ -23,10 +23,10 @@
                 <div class="grid-row-3col my-2">
                     <div class="staff-card-lg">
                         <div class="staff-card-header">
-                            <img src="assets/img/staff/lucy.webp" alt="Lucy Cooper - Staff member at Cinder Ash Pre School">
+                            <img src="assets/img/staff/lucy.webp" alt="Lucy Cook - Staff member at Cinder Ash Pre School">
                         </div>
                         <div class="staff-card-body">
-                            <p class="staff-card-name text-center">Lucy Cooper</p>
+                            <p class="staff-card-name text-center">Lucy Cook</p>
                             <p class="staff-card-title text-center">Manager</p>
                             <p class="staff-card-text">Lucy has been our manager for eight years now, joining us after previous experience of both nurseries and primary schools. Lucy has her BA (hons) degree in Early Years and has used this to influence changeover the setting. She has done a variety of CPD courses including safeguarding level 2 and inter agency training, making her designated safeguarding lead for the setting. She has also completed her SENCo training, alongside a range of other SEN qualifications and has previous experience within the SENCo role. She has also completed beginning with babies training, PEEP training, and courses promoting an improvement in literacy in maths. She completed training to specialise in working with children with english as an additional language and this has been really influential in practice. She has both paediatric and adult first aid training, alongside prevent duty awareness and a range of other training. </p>
                             <div class="text-center my-2"><button class="btn-primary staff-text">Read More</button></div>
@@ -62,8 +62,8 @@
                         </div>
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Lizzie</p>
-                            <p class="staff-card-title text-center">Level 3 Apprentice</p>
-                            <p class="staff-card-text">Lizzie is our level 3 apprentice, joining us in August 2023. She was with us as a student whilst completing level 2 qualification at college, and then joined the team as a staff member ready to complete her level 3 qualification. She has already built some lovely bonds with the children, and has fully embedded herself into life here at Cinder Ash. </p>
+                            <p class="staff-card-title text-center">Early Years Practitioner</p>
+                            <p class="staff-card-text">Lizzie initially joined us as a student as part of her level 2 qualification, before being our apprentice for her level 3. She is now a fully qualified member of staff, and holds all relevant safeguarding, food hygiene and paediatric first aid qualifications. Lizzie has some wonderful bonds with our children, demonstrating such a nurturing presence within the setting and predominantly spends her day with our younger children.</p>
                             <div class="text-center my-2"><button class="btn-primary staff-text">Read More</button></div>
                         </div>
                     </div>
@@ -137,26 +137,28 @@
                     </div>
                     <div class="staff-card-lg">
                         <div class="staff-card-header">
-                            <img src="assets/img/staff/lauren.webp" alt="Lauren - Staff member at Cinder Ash Pre School">
+                            <img src="assets/img/staff/wiki.webp" alt="Wiki - Staff member at Cinder Ash Pre School">
                         </div>
                         <div class="staff-card-body">
-                            <p class="staff-card-name text-center">Lauren </p>
-                            <p class="staff-card-title text-center">Level 2 Practitioner (Level 3 Apprentice)</p>
-                            <p class="staff-card-text">Lauren is our level 3 apprentice, joining us in September 2023. She has a very caring and calm nature, and spends a lot of time with our youngest members of the nursery. Lauren has completed a range of safeguarding courses and will be completing her paediatric first aid this year alongside her qualification. </p>
+                            <p class="staff-card-name text-center">Wiki</p>
+                            <p class="staff-card-title text-center">Early Years Practitioner</p>
+                            <p class="staff-card-text">Wiki joined us in the summer of 2025 to gain some experience before starting her apprenticeship in September 2025. Wiki will be spending lots of time with our youngest children, as they navigate the start of their early years journey. She has completed both food hygiene and relevant safeguarding courses, and will be completing her paediatric first aid as part of her apprenticeship.</p>
                             <div class="text-center my-2"><button class="btn-primary staff-text">Read More</button></div>
                         </div>
                     </div>
                     <div class="staff-card-lg">
                         <div class="staff-card-header">
-                            <img src="assets/img/staff/chelsey.webp" alt="Chelsey - Staff member at Cinder Ash Pre School">
+                            <img src="assets/img/staff/darcey.webp" alt="Darcey - Staff member at Cinder Ash Pre School">
                         </div>
                         <div class="staff-card-body">
-                            <p class="staff-card-name text-center">Chelsey </p>
-                            <p class="staff-card-title text-center">Level 5 Practitioner</p>
-                            <p class="staff-card-text">Chelsey joined the team in January 2024, as a level 5 qualified member of staff. Charlotte has lots of experience working within early years, particularly with the preschool age group. She has completed forest school training, to really promote the outdoor learning and play. Chelsey has also completed all relevant safeguarding training, as well as her paediatric first aid. </p>
+                            <p class="staff-card-name text-center">Darcey</p>
+                            <p class="staff-card-title text-center">Early Years Practitioner</p>
+                            <p class="staff-card-text">Darcey also joined us in the summer of 2025 before starting her apprenticeship in September 2025. Darcey has been spending time with a range of age groups, and getting to know all of our new faces and helping them settle into their new environment. She has completed both food hygiene and relevant safeguarding courses, and will be completing her paediatric first aid as part of her apprenticeship.</p>
                             <div class="text-center my-2"><button class="btn-primary staff-text">Read More</button></div>
                         </div>
                     </div>
+
+
                 </div>
                 <p class="text-center my-2">All our practitioners have completed level 1 makaton training with intentions to continue this training onto level 2.</p>
             </div>

@@ -23,7 +23,7 @@
                 <div class="grid-col">
                     <h2 class="section-title text-center">About Us</h2>
                     <p>Welcome to <span itemprop="name">Cinder Ash</span> and Pre-School, we are in <span itemprop="areaServed">Long Sutton</span> Lincolnshire.<span itemprop="description"> We are a mixed age group setting, taking children from six weeks through to pre-school, with a focus on free flow learning and child led play. We are OFSTED rated good</span>, and our report can be accessed <a href="https://files.api.ofsted.gov.uk/v1/file/2740795" target="_blank">Here</a>. </p><br>
-                    <p>We offer two year old funding for those eligible, fifteen hour early years entitlement funding to all 3 and 4 year olds, and thirty hour funding to those three and four year olds eligible for this. Funding can be accessed on a standard basis (38 weeks of the year term time only), or stretched (47.5 weeks of the year). Fee paying hours can be accessed for 51 weeks of the year.</p>
+                    <p>We offer two year old funding for those eligible for families in receipt of additional support funding, and working families funding to all eligible children the term after they turn 9 months, and universal funding to all children the term after they turn 3. Funding can be accessed on a standard basis (38 weeks of the year term time only), or stretched (47.5 weeks of the year). Fee paying hours can be accessed for 51 weeks of the year.</p>
                 </div>
                 <img class="border-std-2" src="assets/img/gallery/play11.webp" alt="Out door playing at Cinder Ash Pre School">
             </div>
