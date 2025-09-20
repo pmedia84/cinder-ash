@@ -1763,4 +1763,7 @@ input:checked + .slider:before {
 .italics{
     font-style: italic;
 }
+.ob-fit-cover{
+    object-fit: cover;
+}
 /*# sourceMappingURL=styles.css.map */

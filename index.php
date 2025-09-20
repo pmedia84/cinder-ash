@@ -105,7 +105,7 @@
                 <h2 class="text-center">Our Curriculum</h2>
                 <div class="grid-row-2col">
                     <p>Our curriculum is made up of the development matters and birth to five documents. Using both tools helps us to consider and support all round development for your children. We provide a free flow setting, providing opportunities for all of our children to flourish within their own learning, and a highly skilled staff team to scaffold and challenge individual learning. Planned activities and invitations to play are brought to life within our mixed age environment to support and enhance our children’s learning, based on our children’s current interests. </p>
-                    <img class="border-std-2" src="assets/img/gallery/play-2-jan25.webp" width="500" alt="Curriculum play is made up of birth to five years">
+                    <img class="border-std-2" src="assets/img/gallery/effie.webp" width="500" alt="Curriculum play is made up of birth to five years">
                 </div>
             </div>
         </section>
