@@ -23,9 +23,9 @@
             <div class="std-card">
                 <p>Click on the links below to download the documents</p>
                 <ul class="files">
-                    <li><a href="assets/docs/child-protection-procedure.docx" download="child protection.docx"><i class="fa-regular fa-file-word"></i> Child Protection</a></li>
-                    <li><a href="assets/docs/complaints-procedure.docx" download="complaints procedure.docx"><i class="fa-regular fa-file-word"></i> Complaints Procedure</a></li>
-                    <li><a href="assets/docs/safeguarding-children0307.docx" download="safeguarding-children0307.docx"><i class="fa-regular fa-file-word"></i> Safeguarding Children</a></li>
+                    <li><a href="assets/docs/child-protection-procedure.docx" download="child-protection.docx"><i class="fa-regular fa-file-word"></i> Child Protection</a></li>
+                    <li><a href="assets/docs/complaints-procedure.docx" download="complaints-procedure.docx"><i class="fa-regular fa-file-word"></i> Complaints Procedure</a></li>
+                    <li><a href="assets/docs/safeguarding-children.docx" download="safeguarding-children.docx"><i class="fa-regular fa-file-word"></i> Safeguarding Children</a></li>
                 </ul>
             </div>
 
