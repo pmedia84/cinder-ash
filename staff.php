@@ -141,7 +141,7 @@
                         </div>
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Wiki</p>
-                            <p class="staff-card-title text-center">Early Years Practitioner</p>
+                            <p class="staff-card-title text-center">Apprentice</p>
                             <p class="staff-card-text">Wiki joined us in the summer of 2025 to gain some experience before starting her apprenticeship in September 2025. Wiki will be spending lots of time with our youngest children, as they navigate the start of their early years journey. She has completed both food hygiene and relevant safeguarding courses, and will be completing her paediatric first aid as part of her apprenticeship.</p>
                             <div class="text-center my-2"><button class="btn-primary staff-text">Read More</button></div>
                         </div>
@@ -152,7 +152,7 @@
                         </div>
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Darcey</p>
-                            <p class="staff-card-title text-center">Early Years Practitioner</p>
+                            <p class="staff-card-title text-center">Apprentice</p>
                             <p class="staff-card-text">Darcey also joined us in the summer of 2025 before starting her apprenticeship in September 2025. Darcey has been spending time with a range of age groups, and getting to know all of our new faces and helping them settle into their new environment. She has completed both food hygiene and relevant safeguarding courses, and will be completing her paediatric first aid as part of her apprenticeship.</p>
                             <div class="text-center my-2"><button class="btn-primary staff-text">Read More</button></div>
                         </div>
