@@ -25,7 +25,7 @@
                     <p>As much as we are keen to promote an integrated age group approach to our setting, we recognise the quieter time that our under two’s may need, and have a separate area of the room dedicated to them, furnished with soft cosy provision and age appropriate resources. This area is accessible to all; however, children are aware it’s predominantly for our younger children, and ensure it is a calmer area to explore in.</p><br>
                     <p>Keyworkers are at the core of our values, particularly with our under two’s, promoting attachment as a secure base for learning and development. We are currently looking into an enclosed outdoor space, to fully ensure we meet all the needs of our youngest children.</p>
                 </div>
-                <img class="border-std-2" src="assets/img/gallery/play-2-jan25.webp" alt="Under 2's play at Cinder Ash Pre School">
+                <img class="border-std-2" src="assets/img/gallery/lennon.webp" alt="Under 2's play at Cinder Ash Pre School">
             </div>
             <div class="std-card grid-row-2col my-3">
                 <div class="grid-col">
@@ -64,7 +64,7 @@
             </div>
         </section>
         <section class="img-grid-auto my-4">
-            <img class="border-std" src="assets/img/gallery/play8.webp" alt="Play at Cinder Ash Pre School">
+            <img class="border-std" src="assets/img/gallery/lennon-2.webp" alt="Play at Cinder Ash Pre School">
             <img class="border-std" src="assets/img/gallery/play-4-jan25.webp" alt="Play at Cinder Ash Pre School">
             <img class="border-std" src="assets/img/gallery/play10.webp" alt="Play at Cinder Ash Pre School">
         </section>
