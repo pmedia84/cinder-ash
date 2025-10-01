@@ -33,7 +33,7 @@
                     <p>For our two year olds we recognise their vivid imaginations, love of exploration and enjoyment of exploring with their senses. With this in mind we plan the environment to ensure there are vast multi sensory invitations to play, with a mixture of resources they are confident and familiar with but also new resources and experiences to challenge their minds and learning. </p><br>
                     <p>We continue to really focus on that key-worker bond but also developing those peer relationships and friendships. There is lots of emphasis of language and managing feelings as they begin to make sense of the World around them. Our mixed age group environment provides a fantastic opportunity to ensure the environment always meets their needs, and ensures resources and learning opportunities are adaptable and suitable for all children in setting. </p>
                 </div>
-                <img class="border-std-2" src="assets/img/gallery/play20.webp" alt="2 Year old's play at Cinder Ash Pre School">
+                <img class="border-std-2" src="assets/img/gallery/ellowyn.webp" alt="2 Year old's play at Cinder Ash Pre School">
             </div>
             <div class="std-card grid-row-2col my-3">
                 <div class="grid-col">
