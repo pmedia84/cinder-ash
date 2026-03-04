@@ -902,7 +902,7 @@ input{
     outline: transparent;
     max-width: 50ch;
 }
-input[type=text], input[type=password], textarea, select, input[type=file],input[type=number], input[type=date], input[type=time], input[type=email]{
+input[type=text], input[type=password], textarea, select, input[type=file],input[type=number], input[type=date], input[type=time], input[type=email], input[type=tel]{
     appearance: none;
     border: 1px solid #73584e;
     border-radius: 5px;
@@ -911,7 +911,7 @@ input[type=text], input[type=password], textarea, select, input[type=file],input
     margin-block: 0.25rem;
     
 }
-input[type=text]:focus,input[type=password]:focus,textarea:focus,select:focus,input[type=file]:focus,input[type=number]:focus,input[type=date]:focus,input[type=time]:focus,input[type=email]:focus{
+input[type=text]:focus,input[type=password]:focus,textarea:focus,select:focus,input[type=file]:focus,input[type=number]:focus,input[type=date]:focus,input[type=time]:focus,input[type=email]:focus,input[type=tel]:focus{
         box-shadow: 0 0 2px 3px hsl(16, 24%, 50%);
         transition: box-shadow 300ms ease-out;
     }
@@ -942,7 +942,7 @@ select{
     appearance: none;
     border: 1px solid #73584e;
     border-radius: 0.25rem;
-    background-image: url("../img/icons/down.svg");
+    background-image: url("/assets/img/icons/chevron-down.svg");
     background-repeat: no-repeat;
       background-position: right 0.75rem center;
       background-size: 16px 12px;
@@ -999,9 +999,9 @@ input[type="checkbox"]{/*basic styling*/
     display: grid;
     place-content: center;
 }
-.checkbox-form-control + .checkbox-form-control {
-    margin-top: 1em;
-  }
+/*.checkbox-form-control + .checkbox-form-control {*/
+/*margin-top: 1em;*/
+/*}*/
 input[type="checkbox"]::before{
     content: "";
     width: .65em;
@@ -1745,6 +1745,19 @@ input:checked + .slider:before {
 }
 .flex-space-between{
     justify-content: space-around;
+}
+.flex-row{
+    display: flex;
+    flex-direction: row;
+}
+.flex-wrap{
+    flex-wrap: wrap;
+}
+.gap-2{
+    gap: 0.5rem;
+}
+.gap-3{
+    gap: 1.5rem;
 }
 /*/Display utilities*/
 .d-none{

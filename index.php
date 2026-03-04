@@ -17,6 +17,7 @@
                 <p class="hero-subtitle">We believe that every child deserves the BEST start in life!</p>
                 <p class="my-2">Offering a mixed age room, where friendships are not separated by the child’a age, and children can learn and grow together, we can accomplish our belief…</p>
                 <a href="contact" class="btn-primary">Contact Us</a>
+                <a href="/join-waiting-list" class="btn-primary btn-secondary">Join Waiting List</a>
             </div>
         </div>
         <section class="container my-5 grid-row-3col" id="section-one">

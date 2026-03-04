@@ -85,13 +85,13 @@
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Laura</p>
                             <p class="staff-card-title text-center">Early Years Practitioner</p>
-                            <p class="staff-card-text">Laura joined the team initially in October 2018 as a level 3 apprentice, before continuing with us as a qualified member of staff. She has always had a passion for working with children with previous roles in nurseries, and this is demonstrated with her wonderful rapport she has build with the children at setting. She has a huge interest in the natural environment, and provides wonderful learning opportunities such as  the growing of fruits and vegetables, creating environments and food for wildlife and looking at ways we can care for the World around us. Laura holds all relevant safeguarding qualifications and also her paediatric first aid. </p>
+                            <p class="staff-card-text">Laura joined the team initially in October 2018 as a level 3 apprentice, before continuing with us as a qualified member of staff. She has always had a passion for working with children with previous roles in nurseries, and this is demonstrated with her wonderful rapport she has build with the children at setting. She has a huge interest in the natural environment, and provides wonderful learning opportunities such as the growing of fruits and vegetables, creating environments and food for wildlife and looking at ways we can care for the World around us. Laura holds all relevant safeguarding qualifications and also her paediatric first aid. </p>
                             <div class="text-center my-2"><button class="btn-primary staff-text">Read More</button></div>
                         </div>
                     </div>
                 </div>
                 <div class="grid-row-3col">
-                <div class="staff-card-lg">
+                    <div class="staff-card-lg">
                         <div class="staff-card-header">
                             <img src="assets/img/staff/jack.webp" alt="Jack - Staff member at Cinder Ash Pre School">
                         </div>
@@ -109,7 +109,7 @@
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Chloe</p>
                             <p class="staff-card-title text-center">Early Years Practitioner Bank Staff </p>
-                            <p class="staff-card-text">Chloe joined us in January 2019 to complete her level 3 qualification in early years and now is with us as a qualified bank staff member. She also holds her level 3 qualification in teaching assisting and has experience in both schools and nurseries. She particularly enjoys creative and craft activities, and the children absolutely love creating their masterpieces with Chloe.  Chloe holds all relevant safeguarding training and is renewing her paediatric first aid in March 2023. </p>
+                            <p class="staff-card-text">Chloe joined us in January 2019 to complete her level 3 qualification in early years and now is with us as a qualified bank staff member. She also holds her level 3 qualification in teaching assisting and has experience in both schools and nurseries. She particularly enjoys creative and craft activities, and the children absolutely love creating their masterpieces with Chloe. Chloe holds all relevant safeguarding training and is renewing her paediatric first aid in March 2023. </p>
                             <div class="text-center my-2"><button class="btn-primary staff-text">Read More</button></div>
                         </div>
                     </div>
@@ -131,7 +131,7 @@
                         <div class="staff-card-body">
                             <p class="staff-card-name text-center">Grace</p>
                             <p class="staff-card-title text-center">Early Years Practitioner</p>
-                            <p class="staff-card-text">Grace joined the team initially in January 2019 as a level 2 apprentice, before continuing with us as a qualified member of staff. Grace is very calm and caring, and does a fantastic  job at settling children who may be finding the transition to nursery difficult, alongside supporting our two year olds in particular as they begin to develop independence and make understanding of the world around them. Grace holds all relevant safeguarding qualifications and also her paediatric first aid.</p>
+                            <p class="staff-card-text">Grace joined the team initially in January 2019 as a level 2 apprentice, before continuing with us as a qualified member of staff. Grace is very calm and caring, and does a fantastic job at settling children who may be finding the transition to nursery difficult, alongside supporting our two year olds in particular as they begin to develop independence and make understanding of the world around them. Grace holds all relevant safeguarding qualifications and also her paediatric first aid.</p>
                             <div class="text-center my-2"><button class="btn-primary staff-text">Read More</button></div>
                         </div>
                     </div>
@@ -148,12 +148,12 @@
                     </div>
                     <div class="staff-card-lg">
                         <div class="staff-card-header">
-                            <img src="assets/img/staff/darcey.webp" alt="Darcey - Staff member at Cinder Ash Pre School">
+                            <img src="assets/img/staff/felicity.webp" alt="Felicity - Staff member at Cinder Ash Pre School">
                         </div>
                         <div class="staff-card-body">
-                            <p class="staff-card-name text-center">Darcey</p>
-                            <p class="staff-card-title text-center">Apprentice</p>
-                            <p class="staff-card-text">Darcey also joined us in the summer of 2025 before starting her apprenticeship in September 2025. Darcey has been spending time with a range of age groups, and getting to know all of our new faces and helping them settle into their new environment. She has completed both food hygiene and relevant safeguarding courses, and will be completing her paediatric first aid as part of her apprenticeship.</p>
+                            <p class="staff-card-name text-center">Felicity</p>
+                            <p class="staff-card-title text-center">Early Years Practitioner</p>
+                            <p class="staff-card-text">Felicity is a level 3 qualified member of staff, who joined us in February 2026. She has all relevant safeguarding qualifications, food hygiene and paediatric first aid. We look forward to welcoming Felicity to the team. </p>
                             <div class="text-center my-2"><button class="btn-primary staff-text">Read More</button></div>
                         </div>
                     </div>

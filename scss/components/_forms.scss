@@ -94,7 +94,7 @@ input{
     outline: transparent;
     max-width: 50ch;
 }
-input[type=text], input[type=password], textarea, select, input[type=file],input[type=number], input[type=date], input[type=time], input[type=email]{
+input[type=text], input[type=password], textarea, select, input[type=file],input[type=number], input[type=date], input[type=time], input[type=email], input[type=tel]{
     appearance: none;
     border: 1px solid $primary;
     border-radius: 5px;
@@ -133,7 +133,7 @@ textarea{
     appearance: none;
     border: 1px solid $primary;
     border-radius: 0.25rem;
-    background-image: url("../img/icons/down.svg");
+    background-image: url("/assets/img/icons/chevron-down.svg");
     background-repeat: no-repeat;
       background-position: right 0.75rem center;
       background-size: 16px 12px;
@@ -188,9 +188,9 @@ input[type="checkbox"]{//basic styling
     display: grid;
     place-content: center;
 }
-.checkbox-form-control + .checkbox-form-control {
-    margin-top: 1em;
-  }
+//.checkbox-form-control + .checkbox-form-control {
+    //margin-top: 1em;
+  //}
 
 input[type="checkbox"]::before{
     content: "";

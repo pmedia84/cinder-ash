@@ -84,6 +84,14 @@
                         </td>
                         <td>Dependent on items selected</td>
                     </tr>
+                    <tr>
+                        <td>
+                            <strong>Breakfast</strong>
+                        </td>
+                        <td><strong>Daily</strong></td>
+                        <td>&pound;0.50</td>
+                        <td>Dependent on days required</td>
+                    </tr>
                 </table>
                 <h3>Consumables (for example, nappies and sun cream)</h3>
                 <p>Nappies, wipes, suncream and wellies are all to be supplied by the parents.</p>
